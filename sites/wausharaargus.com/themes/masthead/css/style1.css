@@ -76,13 +76,10 @@ td {
 }
 
 header {
-  float: left;	
+  float: left;
 }
 
 .site-logo img {max-width: 100%;
-}
-
-hgroup {
 }
 
 h1.site-name, h2.site-name {
@@ -434,7 +431,7 @@ h3.site-slogan {
   margin: 0;
   border: 1px solid #dddddd;
   border-bottom: 3px solid #000;
-  background: #333333 url(../images/style1/main-menu-bg.png) top left repeat-x;
+  background: #003778;
 }
 
 #main-menu ul.menu li {
@@ -448,7 +445,6 @@ h3.site-slogan {
   color: #555555;
   padding: 0 20px;	
   text-transform: uppercase;
-  text-shadow: 1px 1px #ffffff;
   border-right: 1px solid #dddddd;
   border-left: 1px solid #f9f9f9;
 }
@@ -474,7 +470,7 @@ h3.site-slogan {
   color: #333333;
   height: 38px;
   line-height: 38px;
-  border-top: 2px solid #000;
+  border-top: 2px solid #000000;
   text-decoration: none;
 }
 
@@ -623,12 +619,7 @@ h3.site-slogan {
 
 .node .taxonomy .field-type-taxonomy-term-reference {
   margin: 5px 0;
-  field-type-taxonomy-term-reference
   background: #f9f9f9;	
-}
-
-.node .taxonomy-inner {
-≈
 }
 
 .node .taxonomy a {
@@ -740,7 +731,7 @@ h3.site-slogan {
 }
 
 #search-block-form {
-  margin-top: 0x;
+  margin-top: 0;
   background: 0;
   line-height: 25px;
   border-left: 1px solid #dddddd;
@@ -752,8 +743,8 @@ h3.site-slogan {
 }
 
 #search-block-form  .form-item, #search-block-form  .form-actions {
-  margin-bottom: 0em;
-  margin-top: 0em;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 #search-block-form .form-text, #search-block-form .form-submit {
