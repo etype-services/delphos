@@ -536,7 +536,7 @@ h3.site-slogan {
     position: absolute;
     padding: 0;
     margin: 1px 0 0 0;
-    width: 200px;
+    /*width: 200px;*/
     left: -999em;
     z-index: 100;
     background: #f9f9f9;
