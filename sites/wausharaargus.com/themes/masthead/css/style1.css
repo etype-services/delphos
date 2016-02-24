@@ -487,12 +487,12 @@ h3.site-slogan {
 #main-menu ul.menu li ul {
     display: none;
     background: transparent;
-}
-
-#main-menu ul.menu li ul {
     position: relative;
     top: 23px;
-    width: 300px;
+}
+
+#main-menu ul.menu li li {
+    width: 200px;
 }
 
 #main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
