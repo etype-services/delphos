@@ -491,10 +491,6 @@ h3.site-slogan {
     top: 23px;
 }
 
-#main-menu ul.menu li li {
-    width: 200px;
-}
-
 #main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
     margin: 0;
     padding: 0 20px;
