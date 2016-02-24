@@ -11,7 +11,7 @@ Note: Design for a width of 768px
 @media only screen and (min-width: 960px) {
 
     #main-menu ul.menu li {
-        max-width: 117px;
+        /*max-width: 117px;*/
     }
 
 }
