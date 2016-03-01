@@ -11,3 +11,9 @@ $sites['wausharaargus.com'] = 'wausharaargus.com';
 $sites['www.wausharaargus.com'] = 'wausharaargus.com';
 $sites['prod.wausharaargus.com'] = 'wausharaargus.com';
 $sites['dev.wausharaargus.com'] = 'wausharaargus.com';
+
+$sites['natchitochestimes.etypegoogle6.com'] = 'natchitochestimes.com';
+$sites['natchitochestimes.com'] = 'natchitochestimes.com';
+$sites['www.natchitochestimes.com'] = 'natchitochestimes.com';
+$sites['prod.natchitochestimes.com'] = 'natchitochestimes.com';
+$sites['dev.natchitochestimes.com'] = 'natchitochestimes.com';
