@@ -19,16 +19,3 @@ li a.active{color:#000;}
 .block-menu{}
 
 .block-menu-block{}
-
-/* fix borders on main menu */
-#superfish-1 .content .menu li a {
-    border-right: none;
-}
-
-.sf-menu.sf-style-default a {
-    border-left: none;
-}
-
-#block-superfish-1 ul li a {
-    padding: 0 16px;
-}
