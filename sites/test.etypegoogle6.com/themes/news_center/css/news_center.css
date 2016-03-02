@@ -350,3 +350,9 @@ h2.node-title{}
 #block-block-14{margin-left:-10px;margin-top:-17px;}
 #block-fb-likebox-0 {margin-left:-10px;}
 #block-views-videos-block {margin-left:-10px;}
+
+/* hide image captions in certain views */
+.view-articles-images .image-field-caption {
+    display: none;
+    visibility: hidden;
+}
