@@ -17,3 +17,5 @@ $sites['natchitochestimes.com'] = 'natchitochestimes.com';
 $sites['www.natchitochestimes.com'] = 'natchitochestimes.com';
 $sites['prod.natchitochestimes.com'] = 'natchitochestimes.com';
 $sites['dev.natchitochestimes.com'] = 'natchitochestimes.com';
+
+$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
