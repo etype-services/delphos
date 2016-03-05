@@ -209,7 +209,7 @@ h3.site-slogan {
     border: 1px solid #ddd;
     border-bottom: 3px solid #5F7394;
     background: #ffffff;
-    box-shadow: 0px 1px 5px #bbbbbb;
+    box-shadow: 0 1px 5px #bbbbbb;
 }
 
 /* SIDEBARS 
@@ -251,7 +251,7 @@ h3.site-slogan {
 }
 
 .postscript-wrapper .block-inner {
-    padding: 0px;
+    padding: 0;
 }
 
 .postscript-wrapper .content {
@@ -283,7 +283,7 @@ h3.site-slogan {
 }
 
 #postscript .item-list ul li.last {
-    border-bottom: 0px dotted #555555;
+    border-bottom: 0 dotted #555555;
 }
 
 /* FOOTER
@@ -323,7 +323,7 @@ h3.site-slogan {
 }
 
 .item-list ul li.last {
-    border-bottom: 0px dotted #999999;
+    border-bottom: 0 dotted #999999;
 }
 
 .item-list ul li a {
@@ -381,7 +381,7 @@ h3.site-slogan {
 }
 
 #user-menu ul.menu li li.last {
-    border-bottom: 0px solid #dddddd;
+    border-bottom: 0 solid #dddddd;
 }
 
 #user-menu ul.menu li li a, #user-menu ul.menu li li a.active {
@@ -394,10 +394,6 @@ h3.site-slogan {
 
 #user-menu ul.menu li li a:hover, #user-menu ul.menu li li a.active:hover {
     background: #eeeeee;
-}
-
-#main-menu ul.menu li ul ul {
-    margin: -25px 0 0 200px;
 }
 
 #user-menu ul.menu li:hover ul ul, #user-menu ul.menu li.sfHover ul ul, #user-menu ul.menu li:hover ul ul ul, #user-menu ul.menu li.sfHover ul ul ul, #user-menu ul.menu li:hover ul ul ul ul, #user-menu ul.menu li.sfHover ul ul ul ul {
@@ -426,7 +422,7 @@ h3.site-slogan {
 #main-menu ul.menu {
     display: block;
     height: 100%;
-    min-height: 40px;
+    width: 100%;
     max-height: 85px;
     margin: 0;
     border: 1px solid #dddddd;
@@ -445,27 +441,27 @@ h3.site-slogan {
     color: #ffffff;
     padding: 0 17px;
     text-transform: uppercase;
-    border-right: 1px solid #dddddd;
-    border-left: 1px solid #f9f9f9;
-}
-
-#main-menu ul.menu li {
-    text-align: center;
+    border-left: 2px solid #f9f9f9;
 }
 
 #main-menu ul.menu li.first a {
-    border-left: 0px solid #f9f9f9;
+    border-left: none;
 }
 
-#main-menu ul.menu li.last a {
-    border-right: 0px solid #dddddd;
-}
-
-#main-menu ul.menu li a:hover, #main-menu ul.menu li li a:hover {
+#main-menu ul.menu li a:hover {
     color: #333333;
     height: 38px;
     line-height: 38px;
     border-top: 1px solid #dddddd;
+    text-decoration: none;
+    background: #eeeeee;
+}
+
+#main-menu ul.menu li ul li a:hover {
+    color: #333333;
+    height: 40px;
+    line-height: 40px;
+    border-top: none;
     text-decoration: none;
     background: #eeeeee;
 }
@@ -482,108 +478,65 @@ h3.site-slogan {
     color: #000000;
 }
 
-/* Main Menu Drop Down */
+/* Main menu drop-downs */
 
 #main-menu ul.menu li ul {
-    display: none;
-    background: transparent;
-    position: relative;
-    top: 23px;
-}
-
-#main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
-    margin: 0;
-    padding: 0 20px;
-    font-size: 1.0em;
-    border: 0;
-    color: #ffffff;
-}
-
-/* MAIN MENU SECOND LEVEL
---------------------------------------------------------------------------*/
-
-#main-menu-second-level h3 {
-    display: none;
-}
-
-#main-menu-second-level ul.menu {
-    display: block;
-    height: 25px;
-    margin: 0;
-    background: #333333;
-}
-
-#main-menu-second-level ul.menu li {
-}
-
-#main-menu-second-level ul.menu li a {
-    display: block;
-    height: 25px;
-    line-height: 25px;
-    color: #ffffff;
-    padding: 0 20px;
-    text-shadow: -1px -1px #111111;
-}
-
-#main-menu-second-level ul.menu li a:hover {
-    background: #222222;
-    text-decoration: none;
-}
-
-/* Main Menu Second Level Drop Down */
-
-#main-menu-second-level ul.menu li ul {
+    /* width set by script */
     position: absolute;
     padding: 0;
-    margin: 1px 0 0 0;
-    /*width: 200px;*/
+    margin: 10px 0 0;
     left: -999em;
     z-index: 100;
     background: #f9f9f9;
     border: 1px solid #dddddd;
-    box-shadow: 0 1px 3px #ddd;
 }
 
-#main-menu-second-level ul.menu li:hover ul, #main-menu-second-level ul.menu li.sfHover ul {
-    left: auto;
+#main-menu ul.menu li ul li {
+    border-bottom: 1px solid #e26500;
+    width: 100%;
 }
 
-#main-menu-second-level ul.menu li li {
-    border-bottom: 1px solid #dddddd;
+#main-menu ul.menu li ul li a {
+    border-left: none;
+    height: 40px;
+	line-height: 40px;
 }
 
-#main-menu-second-level ul.menu li li.last {
-    border-bottom: 0px solid #dddddd;
-}
-
-#main-menu-second-level ul.menu li li a, #main-menu-second-level ul.menu li li a.active {
-    width: 160px;
-    padding: 0 20px;
-    margin: 0;
-    font-size: 0.9em;
-    border: 0;
+#main-menu ul.menu li li a:hover {
     color: #333333;
-    text-shadow: 1px 1px #ffffff;
-}
-
-#main-menu-second-level ul.menu li li a:hover, #main-menu-second-level ul.menu li li a.active:hover {
+    height: 40px;
+    line-height: 40px;
+    border-top: none;
+    text-decoration: none;
     background: #eeeeee;
 }
 
-#main-menu-second-level ul.menu li ul ul {
-    margin: -25px 0 0 200px;
+#main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
+    padding: 0 20px;
+    border-left: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
 }
 
-#main-menu-second-level ul.menu li:hover ul ul, #main-menu-second-level ul.menu li.sfHover ul ul, #main-menu-second-level ul.menu li:hover ul ul ul, #main-menu-second-level ul.menu li.sfHover ul ul ul, #main-menu-second-level ul.menu li:hover ul ul ul ul, #main-menu-second-level ul.menu li.sfHover ul ul ul ul {
-    left: -999em;
+#main-menu ul.menu li li a.active:hover {
+    color: #ffffff;
+    border-top: none;
+    height: 40px;
+    line-height: 40px;
 }
 
-#main-menu-second-level ul.menu li li:hover ul, #main-menu-second-level ul.menu li li.sfHover ul, #main-menu-second-level ul.menu li li li:hover ul, #main-menu-second-level ul.menu li li li.sfHover ul, #main-menu-second-level ul.menu li li li li:hover ul, #main-menu-second-level ul.menu li li li li.sfHover ul {
-    left: auto;
-}
-
-#main-menu-second-level ul.menu li li.expanded, #main-menu-second-level ul.menu li li li.expanded {
-    background: 0;
+/* remove shadows */
+.sf-menu.sf-horizontal.sf-shadow ul, .sf-menu.sf-vertical.sf-shadow ul, .sf-menu.sf-navbar.sf-shadow ul ul {
+    -webkit-border-top-right-radius: 0;
+    -webkit-border-bottom-left-radius: 0;
+    -moz-border-radius-topright: 0;
+    -moz-border-radius-bottomleft: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 0 !important;
 }
 
 /* SIDE MENU
