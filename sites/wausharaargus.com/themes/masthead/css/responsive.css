@@ -460,19 +460,19 @@ blockquote {
 #leader {
     margin-top: 30px;
     margin-bottom: -90px;
-    padding: 0px;
+    padding: 0;
     text-align: center;
     margin-left: 100px;
 }
 
 #block-block-19 .content {
-    padding: 0px 0 0 0;
+    padding: 0;
     color: #999999;
 }
 
 #block-block-19 .block-inner {
-    padding: 0px 0 0 0;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
 }
 
 #block-simpleads-ad-groups-65 .block-inner h3.title {
@@ -489,5 +489,5 @@ blockquote {
 }
 
 #block-superfish-2 a {
-    padding: 2px 0px;
+    padding: 2px 0;
 }
