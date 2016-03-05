@@ -341,3 +341,8 @@ h2.node-title{}
 #block-block-16 {margin-bottom: 5px;}
 
 #block-block-19 {margin-left: -9px;}
+
+/* superfish fix */
+.sf-menu.sf-style-default a {
+    border-left: none;
+}
