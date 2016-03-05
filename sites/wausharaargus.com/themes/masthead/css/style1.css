@@ -526,6 +526,7 @@ h3.site-slogan {
     border-top: none;
     height: 40px;
     line-height: 40px;
+    background: #008ad2;
 }
 
 /* remove shadows */
