@@ -476,7 +476,7 @@ h3.site-slogan {
 }
 
 #main-menu ul.menu li a.active:hover {
-    color: #000000;
+    background: #008ad2;
 }
 
 /* Main menu drop-downs */
