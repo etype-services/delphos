@@ -499,7 +499,7 @@ h3.site-slogan {
 #main-menu ul.menu li ul li a {
     border-left: none;
     height: 40px;
-	line-height: 40px;
+    line-height: 40px;
 }
 
 #main-menu ul.menu li li a:hover {
@@ -512,16 +512,13 @@ h3.site-slogan {
 }
 
 #main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
-     padding: 0 20px;
-     border-left: none;
-     display: block;
-     height: 40px;
-     line-height: 40px;
-     color: #ffffff;
-     text-transform: uppercase;
- }
-
-#main-menu ul.menu li li a.active {
+    padding: 0 20px;
+    border-left: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
     background: #17294b;
 }
 
