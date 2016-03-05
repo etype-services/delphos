@@ -472,6 +472,7 @@ h3.site-slogan {
     line-height: 38px;
     border-top: 2px solid #000000;
     text-decoration: none;
+    background: #17294b;
 }
 
 #main-menu ul.menu li a.active:hover {
@@ -519,6 +520,9 @@ h3.site-slogan {
     line-height: 40px;
     color: #ffffff;
     text-transform: uppercase;
+}
+
+#main-menu ul.menu li li a.active {
     background: #17294b;
 }
 
