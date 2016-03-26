@@ -1,5 +1,7 @@
 <?php
 
+$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
+
 $sites['thefortpolkguardian.etypegoogle6.com'] = 'thefortpolkguardian.com';
 $sites['thefortpolkguardian.com'] = 'thefortpolkguardian.com';
 $sites['www.thefortpolkguardian.com'] = 'thefortpolkguardian.com';
@@ -18,4 +20,14 @@ $sites['www.natchitochestimes.com'] = 'natchitochestimes.com';
 $sites['prod.natchitochestimes.com'] = 'natchitochestimes.com';
 $sites['dev.natchitochestimes.com'] = 'natchitochestimes.com';
 
-$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
+$sites['cordellbeacon.etypegoogle6.com'] = 'cordellbeacon.com';
+$sites['cordellbeacon.com'] = 'cordellbeacon.com';
+$sites['www.cordellbeacon.com'] = 'cordellbeacon.com';
+$sites['prod.cordellbeacon.com'] = 'cordellbeacon.com';
+$sites['dev.cordellbeacon.com'] = 'cordellbeacon.com';
+
+$sites['dublincitizen.etypegoogle6.com'] = 'dublincitizen.com';
+$sites['dublincitizen.com'] = 'dublincitizen.com';
+$sites['www.dublincitizen.com'] = 'dublincitizen.com';
+$sites['prod.dublincitizen.com'] = 'dublincitizen.com';
+$sites['dev.dublincitizen.com'] = 'dublincitizen.com';
