@@ -31,3 +31,9 @@ $sites['dublincitizen.com'] = 'dublincitizen.com';
 $sites['www.dublincitizen.com'] = 'dublincitizen.com';
 $sites['prod.dublincitizen.com'] = 'dublincitizen.com';
 $sites['dev.dublincitizen.com'] = 'dublincitizen.com';
+
+$sites['madillrecord.etypegoogle6.com'] = 'madillrecord.net';
+$sites['madillrecord.net'] = 'madillrecord.net';
+$sites['www.madillrecord.net'] = 'madillrecord.net';
+$sites['prod.madillrecord.net'] = 'madillrecord.net';
+$sites['dev.madillrecord.net'] = 'madillrecord.net';
