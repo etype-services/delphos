@@ -22,7 +22,6 @@ Note: Design for a width of 768px
 
     .node .content img {
         max-width: 450px;
-        max-height: auto;
     }
 
     /* SLIDESHOW
@@ -147,7 +146,6 @@ Note: Design for a width of 420px
 
     .node .content img {
         max-width: 380px;
-        max-height: auto;
     }
 
     .node-teaser .field-name-field-image img {
