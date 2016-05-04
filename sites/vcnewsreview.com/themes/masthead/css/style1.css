@@ -445,6 +445,7 @@ h3.site-slogan {
     height: 100%;
     width: 100%;
     max-height: 85px;
+    height: 30px;
     margin: 0;
     background-color: #000000;
 }
@@ -513,7 +514,7 @@ h3.site-slogan {
 #main-menu ul.menu li ul li a {
     border-left: none;
     height: 30px;
-	line-height: 30px;
+    line-height: 30px;
 }
 
 #main-menu ul.menu li li a:hover {
@@ -541,7 +542,6 @@ h3.site-slogan {
     height: 30px;
     line-height: 30px;
 }
-
 
 /* SIDE MENU
 --------------------------------------------------------------------------*/
