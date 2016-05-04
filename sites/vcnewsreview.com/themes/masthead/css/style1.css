@@ -496,11 +496,10 @@ h3.site-slogan {
     /* width set by script */
     position: absolute;
     padding: 0;
-    margin: 10px 0 0;
+    margin: 0;
     left: -999em;
     z-index: 100;
-    background: #6c0019;
-    border: 1px solid #dddddd;
+    background: #000000;
 }
 
 #main-menu ul.menu li ul li {
