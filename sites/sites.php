@@ -37,3 +37,32 @@ $sites['madillrecord.net'] = 'madillrecord.net';
 $sites['www.madillrecord.net'] = 'madillrecord.net';
 $sites['prod.madillrecord.net'] = 'madillrecord.net';
 $sites['dev.madillrecord.net'] = 'madillrecord.net';
+
+$sites['mcbeacon.etypegoogle6.com'] = 'mcbeacon.com';
+$sites['dev.mcbeacon.com'] = 'mcbeacon.com';
+$sites['prod.mcbeacon.com'] = 'mcbeacon.com';
+$sites['www.mcbeacon.com'] = 'mcbeacon.com';
+$sites['mcbeacon.com'] = 'mcbeacon.com';
+
+/* vcnewsreview.etypegoogle6.com */
+$sites['vcnewsreview.etypegoogle6.com'] = 'vcnewsreview.com';
+$sites['dev.vcnewsreview.com'] = 'vcnewsreview.com';
+$sites['prod.vcnewsreview.com'] = 'vcnewsreview.com';
+$sites['www.vcnewsreview.com'] = 'vcnewsreview.com';
+$sites['vcnewsreview.com'] = 'vcnewsreview.com';
+
+$sites['www.vilascountynewsreview.com'] = 'vcnewsreview.com';
+$sites['vilascountynewsreview.com'] = 'vcnewsreview.com';
+
+/* beardstownnewspapers.etypegoogle6.com */
+$sites['beardstownnewspapers.etypegoogle6.com'] = 'beardstownnewspapers.com';
+$sites['dev.beardstownnewspapers.com'] = 'beardstownnewspapers.com';
+$sites['prod.beardstownnewspapers.com'] = 'beardstownnewspapers.com';
+$sites['www.beardstownnewspapers.com'] = 'beardstownnewspapers.com';
+$sites['beardstownnewspapers.com'] = 'beardstownnewspapers.com';
+
+$sites['bulletintimesnews.etypegoogle6.com'] = 'bulletintimesnews.com';
+$sites['dev.bulletintimesnews.com'] = 'bulletintimesnews.com';
+$sites['prod.bulletintimesnews.com'] = 'bulletintimesnews.com';
+$sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
+$sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
