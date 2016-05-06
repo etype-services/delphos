@@ -66,3 +66,9 @@ $sites['dev.bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['prod.bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
+
+$sites['thegearystar.etypegoogle6.com'] = 'thegearystar.com';
+$sites['dev.thegearystar.com'] = 'thegearystar.com';
+$sites['prod.thegearystar.com'] = 'thegearystar.com';
+$sites['www.thegearystar.com'] = 'thegearystar.com';
+$sites['thegearystar.com'] = 'thegearystar.com';
