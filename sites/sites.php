@@ -72,3 +72,13 @@ $sites['dev.thegearystar.com'] = 'thegearystar.com';
 $sites['prod.thegearystar.com'] = 'thegearystar.com';
 $sites['www.thegearystar.com'] = 'thegearystar.com';
 $sites['thegearystar.com'] = 'thegearystar.com';
+
+/* thesabineindex.etypegoogle6.com */
+$sites['thesabineindex.etypegoogle6.com'] = 'thesabineindex.com';
+$sites['dev.thesabineindex.com'] = 'thesabineindex.com';
+$sites['prod.thesabineindex.com'] = 'thesabineindex.com';
+$sites['www.thesabineindex.com'] = 'thesabineindex.com';
+$sites['thesabineindex.com'] = 'thesabineindex.com';
+
+$sites['www.sabinetoday.com'] = 'thesabineindex.com';
+$sites['sabinetoday.com'] = 'thesabineindex.com';
