@@ -7,7 +7,7 @@
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="google-site-verification" content="88hsBVUji-nloLBZBYTDkUR9dqG_lL6Ge3mjjE3YCME" />  
+  <meta name="google-site-verification" content="rUjJc_cMOluA6rCMwSVpkOp5PRgr6k6fCybqNT18t1E" />
   <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <!-- Javascript tag  --><!-- begin ZEDO for channel:  Cass County Star Gazette-CLB , publisher: Cass County Star Gazette , Ad Dimension: Pixel/Popup - 1 x 1 --><script language="JavaScript">
