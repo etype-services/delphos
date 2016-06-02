@@ -42,6 +42,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{text-decoration:none;font-family:'Open Sans',
 
 #block-system-main-menu ul li a.active, #block-system-main-menu ul li a:hover{background:none repeat scroll 0 0 #333333;color:#FFFFFF;}
 
+/* override superfish default */
+.sf-menu.sf-style-default a {
+    border: none;
+}
+
 #block-user-login label{display:none;}
 
 #block-user-login input{font-size:0.9em;padding:3px;width:110px;}
