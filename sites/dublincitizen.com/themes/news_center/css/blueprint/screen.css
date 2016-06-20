@@ -54,7 +54,8 @@ a:focus, a:hover{color:#09f;}
 
 a{color:#06c;text-decoration:underline;}
 
-blockquote{margin:1.5em;color:#666;font-style:italic;}
+/* blockquote styles float, clear and max-width added to get cutline under photo on article node page */
+blockquote{margin:1.5em;color:#666;font-style:italic;float:left;clear:left;max-width:400px;}
 
 strong, dfn{font-weight:bold;}
 

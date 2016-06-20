@@ -66,3 +66,5 @@ $sites['www.sabineindex.net'] = 'thesabineindex.com';
 $sites['thewatongarepublican.etypegoogle6.com'] = 'thewatongarepublican.com';
 $sites['www.thewatongarepublican.com'] = 'thewatongarepublican.com';
 $sites['thewatongarepublican.com'] = 'thewatongarepublican.com';
+$sites['watongarepublican.com'] = 'thewatongarepublican.com';
+$sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
