@@ -344,6 +344,9 @@ h2.node-title{}
 #block-simpleads-ad-groups-50 img{width: 135px; height: 144px; float: left; display: block; clear:none; margin-left: 10px;margin-right: 5px; margin-top:10px;}
 #block-simpleads-ad-groups-50, #block-simpleads-ad-groups-52, #block-simpleads-ad-groups-15 {margin-left:-10px; margin-top:-5px; width: 300px; overflow: visible;}
 
-
+#block-dfp-etype-lb-geary iframe {width: 728px; height:90px; margin-bottom:5px;}
+#block-dfp-etype-lb-geary {margin-left:-9px;}
+#block-dfp-etype-sb-geary iframe {width: 300px; height:250px;}
+#block-dfp-etype-sb-geary {margin-left:-5px; padding: 5px 0;}
 
 

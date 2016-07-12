@@ -505,3 +505,10 @@ blockquote  {background-image: none; margin: 0px; padding: 0px;}
   padding: 0px;
   margin: 0px 0px 20px 0px;
 }
+
+/* Illinois network ads */
+#block-block-27 .block-inner {padding: 0px; margin: 0px;}
+#block-block-27 .content {padding: 0px;}
+#block-block-28 img {max-width: 100%; margin-top: 10px;}
+#block-block-28 {text-align:center;}
+
