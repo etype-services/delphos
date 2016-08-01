@@ -1051,7 +1051,7 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
     visibility: hidden;
 }
 
-.view-frontpage .node-teaser .field-image .field-items:first-child {
-    display: block;
+.view-frontpage .node-teaser .field-image .field-items .field-item:first-child {
+    display: inline;
     visibility: visible;
 }
