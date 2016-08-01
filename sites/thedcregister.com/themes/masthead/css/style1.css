@@ -492,24 +492,28 @@ h3.site-slogan {
 
 #main-menu ul.menu li ul li {
     min-width: 200px;
-    margin-left: 3px;
     border: none;
 }
 
 #main-menu ul.menu li ul li a {
     background-color: #333333;
+    margin-left: 3px;
 }
 
 #main-menu ul.menu li ul li a:hover {
     background-color: #008ad2;
     color: #ffffff;
     border: none;
+    height: 40px;
+    line-height: 40px;
 }
 
 #main-menu ul.menu li ul li a:active {
     background-color: #008ad2;
     color: #ffffff;
     border: none;
+    height: 40px;
+    line-height: 40px;
 }
 
 /* MAIN MENU SECOND LEVEL
