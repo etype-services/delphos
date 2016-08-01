@@ -512,7 +512,7 @@ h3.site-slogan {
     line-height: 40px;
 }
 
-#main-menu ul.menu li ul li a:active {
+#main-menu ul.menu li ul li a.active {
     background-color: #008ad2;
     color: #ffffff;
     border: none;
