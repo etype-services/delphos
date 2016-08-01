@@ -483,7 +483,20 @@ h3.site-slogan {
 #main-menu ul.menu li ul li a {
     background-color: #333333;
     margin-left: 3px;
+}
 
+#main-menu ul.menu li ul {
+    background-color: #333333;
+}
+
+#main-menu ul.menu li ul li {
+    min-width: 200px;
+}
+
+#main-menu ul.menu li ul li a:active {
+    background-color: #333333;
+    margin-left: 3px;
+    border: none;
 }
 
 /* MAIN MENU SECOND LEVEL
