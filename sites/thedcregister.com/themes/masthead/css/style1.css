@@ -493,9 +493,20 @@ h3.site-slogan {
     min-width: 200px;
 }
 
-#main-menu ul.menu li ul li a:active {
+#main-menu ul.menu li ul li a {
     background-color: #333333;
     margin-left: 3px;
+    border: none;
+}
+
+#main-menu ul.menu li ul li a:hover {
+    background-color: #008ad2;
+    color: #ffffff;
+}
+
+#main-menu ul.menu li ul li a:active {
+    background-color: #008ad2;
+    color: #ffffff;
     border: none;
 }
 
