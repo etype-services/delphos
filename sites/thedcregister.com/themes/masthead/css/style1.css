@@ -445,10 +445,9 @@ h3.site-slogan {
   display: block;
   height: 40px;
   line-height: 40px;
-  color: #555555;
+  color: #ffffff;
   padding: 0 20px;	
   text-transform: uppercase;
-  text-shadow: 1px 1px #ffffff;
   border-right: 1px solid #dddddd;
   border-left: 1px solid #f9f9f9;
 }
