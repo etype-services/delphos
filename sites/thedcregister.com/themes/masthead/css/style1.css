@@ -472,15 +472,17 @@ h3.site-slogan {
 /* Main Menu Drop Down */
 
 #main-menu ul.menu li ul {
- display: none;
+    display: none;
+    background-color: #333333;
 }
 
 #main-menu ul.menu li ul li {
-    background: #333333;
+    background-color: #333333;
 }
 
 #main-menu ul.menu li ul li a {
-    background: #333333;
+    background-color: #333333;
+    margin-left: 3px;
 }
 
 /* MAIN MENU SECOND LEVEL
