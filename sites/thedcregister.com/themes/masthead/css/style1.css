@@ -474,23 +474,11 @@ h3.site-slogan {
 #main-menu ul.menu li ul {
     display: none;
     background-color: #333333;
-    top: 38px;
+    top: 40px;
 }
 
 #main-menu ul.menu li ul li {
     background-color: #333333;
-}
-
-#main-menu ul.menu li ul li a {
-    background-color: #333333;
-    margin-left: 3px;
-}
-
-#main-menu ul.menu li ul {
-    background-color: #333333;
-}
-
-#main-menu ul.menu li ul li {
     min-width: 200px;
     border: none;
 }
