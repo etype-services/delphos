@@ -431,7 +431,6 @@ h3.site-slogan {
   margin: 0;
   border: 1px solid #dddddd;
   border-bottom: 3px solid #000;
-  background: #333333 url(../images/style1/main-menu-bg.png) top left repeat-x;
 }
 
 #main-menu ul.menu li {
@@ -443,7 +442,7 @@ h3.site-slogan {
   height: 40px;
   line-height: 40px;
   color: #ffffff;
-  padding: 0 20px;	
+  padding: 0 15px;
   text-transform: uppercase;
   border-right: 1px solid #dddddd;
   border-left: 1px solid #f9f9f9;
@@ -451,10 +450,6 @@ h3.site-slogan {
 
 #main-menu ul.menu li.first a {
   border-left: 0px solid #f9f9f9;	
-}
-
-#main-menu ul.menu li.last a {
-  border-right: 0px solid #dddddd;
 }
 
 #main-menu ul.menu li a:hover {
@@ -478,6 +473,14 @@ h3.site-slogan {
 
 #main-menu ul.menu li ul {
  display: none;
+}
+
+#main-menu ul.menu li ul li {
+    background: #333333;
+}
+
+#main-menu ul.menu li ul li a {
+    background: #333333;
 }
 
 /* MAIN MENU SECOND LEVEL
@@ -743,8 +746,9 @@ h3.site-slogan {
 }
 
 #search-block-form  .form-item, #search-block-form  .form-actions {
-  margin-bottom: 0em;
-  margin-top: 0em;
+  margin-bottom: 0;
+  margin-top: 0
+;
 }
 
 #search-block-form .form-text, #search-block-form .form-submit {
