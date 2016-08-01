@@ -1050,3 +1050,8 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
     display: none;
     visibility: hidden;
 }
+
+.view-frontpage .node-teaser .field-image .field-items:first-child {
+    display: inline;
+    visibility: visible;
+}
