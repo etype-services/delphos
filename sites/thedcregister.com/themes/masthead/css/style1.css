@@ -1044,3 +1044,9 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 }
 
 #block-block-24 {margin-top: 20px;}
+
+/* image fix */
+.view-frontpage .node-teaser .field-image .field-items {
+    display: none;
+    visibility: hidden;
+}
