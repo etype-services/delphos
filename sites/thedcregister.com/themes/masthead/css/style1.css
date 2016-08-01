@@ -509,6 +509,15 @@ h3.site-slogan {
     padding-left: 3px;
 }
 
+#main-menu ul.menu li ul li a.active:hover {
+    color: #333333;
+    border: none;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 3px;
+    background: #eeeeee;
+}
+
 /* MAIN MENU SECOND LEVEL
 --------------------------------------------------------------------------*/
 
