@@ -497,7 +497,11 @@ h3.site-slogan {
 
 #main-menu ul.menu li ul li a {
     background-color: #333333;
-    margin-left: 3px;
+    padding-left: 3px;
+}
+
+#main-menu ul.menu li ul li.first a {
+    border: none;
 }
 
 #main-menu ul.menu li ul li a:hover {
