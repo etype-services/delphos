@@ -68,3 +68,8 @@ $sites['www.thewatongarepublican.com'] = 'thewatongarepublican.com';
 $sites['thewatongarepublican.com'] = 'thewatongarepublican.com';
 $sites['watongarepublican.com'] = 'thewatongarepublican.com';
 $sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
+
+/* thedcregister.etypegoogle6.com */
+$sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
+$sites['www.thedcregister.com'] = 'thedcregister.com';
+$sites['thedcregister.com'] = 'thedcregister.com';
