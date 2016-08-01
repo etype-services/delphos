@@ -1046,12 +1046,12 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 #block-block-24 {margin-top: 20px;}
 
 /* image fix */
-.view-frontpage .node-teaser .field-image .field-items {
+.view-frontpage .node-teaser .field-image .field-items .field-item {
     display: none;
     visibility: hidden;
 }
 
-.view-frontpage .node-teaser .field-image .field-items:first-child {
+.view-frontpage .node-teaser .field-image .field-items .field-item:first-child {
     display: block;
     visibility: visible;
 }
