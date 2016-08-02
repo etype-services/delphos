@@ -73,3 +73,43 @@ $sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
 $sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
 $sites['www.thedcregister.com'] = 'thedcregister.com';
 $sites['thedcregister.com'] = 'thedcregister.com';
+
+/* falmouthoutlook.etypegoogle6.com */
+$sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
+$sites['www.falmouthoutlook.com'] = 'falmouthoutlook.com';
+$sites['falmouthoutlook.com'] = 'falmouthoutlook.com';
+
+/* ironcountyreporter.etypegoogle6.com */
+$sites['ironcountyreporter.etypegoogle6.com'] = 'ironcountyreporter.com';
+$sites['www.ironcountyreporter.com'] = 'ironcountyreporter.com';
+$sites['ironcountyreporter.com'] = 'ironcountyreporter.com';
+
+/* theohiocountynews.etypegoogle6.com */
+$sites['theohiocountynews.etypegoogle6.com'] = 'theohiocountynews.com';
+$sites['www.theohiocountynews.com'] = 'theohiocountynews.com';
+$sites['theohiocountynews.com'] = 'theohiocountynews.com';
+
+/* theharrison-press.etypegoogle6.com */
+$sites['theharrison-press.etypegoogle6.com'] = 'theharrison-press.com';
+$sites['www.theharrison-press.com'] = 'theharrison-press.com';
+$sites['theharrison-press.com'] = 'theharrison-press.com';
+
+/* waltersherald.etypegoogle6.com */
+$sites['waltersherald.etypegoogle6.com'] = 'waltersherald.com';
+$sites['www.waltersherald.com'] = 'waltersherald.com';
+$sites['waltersherald.com'] = 'waltersherald.com';
+
+/* sansabanews.etypegoogle6.com */
+$sites['sansabanews.etypegoogle6.com'] = 'sansabanews.com';
+$sites['www.sansabanews.com'] = 'sansabanews.com';
+$sites['sansabanews.com'] = 'sansabanews.com';
+
+/* bristownews.etypegoogle6.com */
+$sites['bristownews.etypegoogle6.com'] = 'bristownews.com';
+$sites['www.bristownews.com'] = 'bristownews.com';
+$sites['bristownews.com'] = 'bristownews.com';
+
+/* mansfieldenterprise.etypegoogle6.com */
+$sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
+$sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
+$sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
