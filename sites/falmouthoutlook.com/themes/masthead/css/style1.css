@@ -1026,7 +1026,7 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 }
 
 .preface-wrapper .attachment .views-row-last {
-  border-bottom: 0px dotted #999;
+  border-bottom: 0 dotted #999;
 }
 
 .preface-wrapper .attachment .views-row a {
@@ -1035,10 +1035,21 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 }
 
 #block-block-1 .content {
-  padding: 0px 0 0 0;
+  padding: 0;
   color: #999999;
 }
 #block-block-1 .block-inner {
-  padding: 0px 0 0 0;
-  margin: -10px -10px 20px -10px;
+  padding: 0;
+  margin: 0 0 20px ;
+}
+
+/* image fix */
+.view-frontpage .node-teaser .field-image .field-items .field-item {
+    display: none;
+    visibility: hidden;
+}
+
+.view-frontpage .node-teaser .field-image .field-items .field-item:first-child {
+    display: inline;
+    visibility: visible;
 }
