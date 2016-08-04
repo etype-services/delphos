@@ -6,7 +6,8 @@
   <title><?php print $head_title; ?></title>  
   <?php print $styles; ?>
   <?php print $scripts; ?>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+  <meta name="google-site-verification" content="YJvhlPTotHGGQL-vsCjD3KzwlRJ_rQT8J_nuOJllnjI" /> 
   <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
