@@ -97,6 +97,7 @@ function masthead_preprocess_html(&$vars) {
 
 /**
  * Remove head element that seems to cause Google to think the site is hacked
+ * From https://gist.github.com/Dreamseer/3865185
  * @param $head_elements
  */
 function masthead_html_head_alter(&$head_elements) {
