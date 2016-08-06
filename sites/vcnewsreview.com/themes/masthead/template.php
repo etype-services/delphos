@@ -95,7 +95,10 @@ function masthead_preprocess_html(&$vars) {
   } 
 }
 
-
+/**
+ * Remove head elements that seem to cause Google to think the site is hacked
+ * @param $head_elements
+ */
 function masthead_html_head_alter(&$head_elements) {
   // remove unneeded metatags
   $remove = array(
