@@ -96,25 +96,12 @@ function masthead_preprocess_html(&$vars) {
 }
 
 /**
- * Remove head elements that seem to cause Google to think the site is hacked
+ * Remove head element that seems to cause Google to think the site is hacked
  * @param $head_elements
  */
 function masthead_html_head_alter(&$head_elements) {
-  // remove unneeded metatags
-  $remove = array(
-    //'system_meta_content_type', // Content Type
-    'system_meta_generator',      // Generator
-    'metatag_canonical',          // Canonical Link
-    'rdf_node_title',             // DC:Title
-  );
-  foreach ($remove as $item) {
-    if (isset($head_elements[$item])) {
-      unset($head_elements[$item]);
-    }
-  }
   // remove unneeded links
   $remove = array(
-    '/^drupal_add_html_head_link:shortcut icon:/', // Favicon
     '/^drupal_add_html_head_link:shortlink:/',     // Shortlink
   );
   foreach ($remove as $item) {
