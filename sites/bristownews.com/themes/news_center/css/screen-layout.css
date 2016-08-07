@@ -95,16 +95,22 @@ body.front h1{
 
 #block-superfish-1, #superfish-1, .superfish-1{background: #000; }
 
+#block-superfish-1 ul li.first {
+    margin-left: 4px !important;
+}
+
+#block-superfish-1 ul#superfish-1 {
+    width: 100%;
+}
 
 #block-superfish-1 ul li.first {
     margin-left: 4px !important;
 }
 
-#block-superfish-1{
+#block-superfish-1 {
     margin-bottom: 0;
     width: 1040px;display:block; position:inherit; z-index:99; height: 24px
 }
-
 
 
 #block-superfish-1 ul li {
@@ -132,7 +138,7 @@ body.front h1{
 
 #block-superfish-1 ul li a.active,  #block-menu-menu-news-categories ul li a:hover {
     background: none repeat scroll 0 0 #FFFFFF;
-   height:30px
+    height:30px;
     color: #333333;
     padding-top: 5px;
 	
@@ -142,12 +148,9 @@ body.front h1{
 
 #block-superfish-1 a.active-trail .active li {
     background: none repeat scroll 0 0 #000033;
-    
     color: #333333;
     padding-top: 0px;
 	padding-left: 15px;
-	
-	
 }
 
 
