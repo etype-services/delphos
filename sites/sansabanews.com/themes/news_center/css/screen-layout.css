@@ -102,7 +102,7 @@ body.front h1{
 
 #block-superfish-1{
     margin-bottom: 0;
-    width: 1040px;display:block; position:inherit; z-index:99; height: 24px
+    width: 1040px;display:block; position:inherit; z-index:99; height: 24px;
 }
 
 #block-superfish-1 ul#superfish-1 {
@@ -134,7 +134,7 @@ body.front h1{
 
 #block-superfish-1 ul li a.active,  #block-menu-menu-news-categories ul li a:hover {
     background: none repeat scroll 0 0 #FFFFFF;
-   height:30px
+    height:30px;
     color: #333333;
     padding-top: 5px;
 	
