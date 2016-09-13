@@ -1,8 +1,8 @@
 #mm0 {
-  margin-bottom: 10px;	
+  margin-bottom: 10px;
 }
 
-/** 
+/**
 
 Note: Design for a width of 768px
 
@@ -12,23 +12,23 @@ Note: Design for a width of 768px
 
 .page-node .field-name-field-image img {
   width: 490px;
-  height: auto;	
+  height: auto;
 }
 
 .page-node .field-name-field-video iframe {
   width: 490px;
-  height: 300px;	
+  height: 300px;
 }
 
 .node .content img {
   max-width: 450px;
-  max-height: auto;	
+  max-height: auto;
 }
-	
-/* SLIDESHOW 
+
+/* SLIDESHOW
 --------------------------------------------------------------------------*/
 
-.view-slideshow .views_slideshow_main {	
+.view-slideshow .views_slideshow_main {
   height: 240px;
 }
 
@@ -44,7 +44,7 @@ Note: Design for a width of 768px
 
 
 .view-slideshow .views_slideshow_main .views-field-body {
-  width: 450px; 
+  width: 450px;
   top:130px;
   font-size: 11px;
 }
@@ -60,17 +60,17 @@ Note: Design for a width of 768px
 /* Video Featured */
 
 .view-featured-view iframe {
-  width: 195px;	
+  width: 195px;
   height: 120px;
 }
-	
+
 }
 
-/** 
+/**
 Note: Design for a width of 300px
 **/
 
-@media only screen and (max-width: 767px) {	
+@media only screen and (max-width: 767px) {
 
 .main-content-wrapper {
     margin-top: 0px;
@@ -94,20 +94,20 @@ Note: Design for a width of 300px
 
 .page-node .field-name-field-image img {
   width: 300px;
-  height: auto;	
+  height: auto;
 }
 
 .page-node .field-name-field-video iframe {
   width: 300px;
-  height: 200px;	
+  height: 200px;
 }
 
 .node .content img {
   max-width: 240px;
-  max-height: auto;	
+  max-height: auto;
 }
 
-/* SLIDESHOW 
+/* SLIDESHOW
 --------------------------------------------------------------------------*/
 
 .social-links li a {
@@ -115,7 +115,7 @@ Note: Design for a width of 300px
   padding-right: 1px;
 }
 
-.view-slideshow .views_slideshow_main {	
+.view-slideshow .views_slideshow_main {
   height: 145px;
 }
 
@@ -144,14 +144,14 @@ Note: Design for a width of 300px
 /* Video Featured */
 
 .view-featured-view iframe {
-  width: 260px;	
+  width: 260px;
   height: 180px;
 }
 
-	
+
 }
 
-/** 
+/**
 Note: Design for a width of 420px
 **/
 
@@ -159,9 +159,9 @@ Note: Design for a width of 420px
 
 .node .content img {
   max-width: 380px;
-  max-height: auto;	
+  max-height: auto;
 }
-	
+
 .node-teaser .field-name-field-image img {
   float: left;
   margin: 0 20px 0 0;
@@ -169,11 +169,11 @@ Note: Design for a width of 420px
 
 .node-teaser .node-content-wrapper {
   margin-left: 180px;
-}	
+}
 
 .video .node-teaser .node-content-wrapper {
   margin-left: 0px;
-}	
+}
 
 .node-teaser .field-name-field-video iframe {
   float: none;
@@ -184,18 +184,18 @@ Note: Design for a width of 420px
 
 .page-node .field-name-field-image img {
   width: 418px;
-  height: auto;	
+  height: auto;
 }
 
 .page-node .field-name-field-video iframe {
   width: 418px;
-  height: 300px;	
+  height: 300px;
 }
 
-/* SLIDESHOW 
+/* SLIDESHOW
 --------------------------------------------------------------------------*/
 
-.view-slideshow .views_slideshow_main {	
+.view-slideshow .views_slideshow_main {
   height: 200px;
 }
 
@@ -224,19 +224,13 @@ Note: Design for a width of 420px
 /* Video Featured */
 
 .view-featured-view iframe {
-  width: 380px;	
+  width: 380px;
   height: 220px;
 }
-	
-}
-
-
-
-
 
 #block-block-10 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-10 .block-inner {
   padding: 0px 0 0 0;
@@ -245,7 +239,7 @@ Note: Design for a width of 420px
 
 #block-block-9 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-9 .block-inner {
   padding: 0px 0 0 0;
@@ -254,7 +248,7 @@ Note: Design for a width of 420px
 
 #block-block-8 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-8 .block-inner {
   padding: 0px 0 0 0;
@@ -263,7 +257,7 @@ Note: Design for a width of 420px
 
 #block-block-13 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-13 .block-inner {
   padding: 0px 0 0 0;
@@ -271,7 +265,7 @@ Note: Design for a width of 420px
 }
 #block-block-11 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-11 .block-inner {
   padding: 0px 0 0 0;
@@ -279,7 +273,7 @@ Note: Design for a width of 420px
 }
 #block-block-14 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-14 .block-inner {
   padding: 0px 0 0 0;
@@ -287,7 +281,7 @@ Note: Design for a width of 420px
 }
 #block-block-16 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-16 .block-inner {
   padding: 0px 0 0 0;
@@ -295,7 +289,7 @@ Note: Design for a width of 420px
 }
 #block-block-17 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-block-17 .block-inner {
   padding: 5px;
@@ -304,7 +298,7 @@ Note: Design for a width of 420px
 
 #block-simpleads-ad-groups-51 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-simpleads-ad-groups-51 .block-inner {
   padding: 0px;
@@ -313,7 +307,7 @@ Note: Design for a width of 420px
 
 #block-simpleads-ad-groups-63 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-simpleads-ad-groups-63 .block-inner {
   padding: 0px;
@@ -322,7 +316,7 @@ Note: Design for a width of 420px
 
 #block-block-11 {box-shadow: none;}
 
-#block-block-7 {float: right; margin-top:-90px;}	
+#block-block-7 {float: right; margin-top:-90px;}
 
 
 
@@ -346,19 +340,19 @@ Note: Design for a width of 420px
 }
 #block-block-31 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-block-30 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-block-28 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-block-27 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 
 
@@ -418,7 +412,7 @@ blockquote  {background-image: none; margin: 0px; padding: 0px;}
 #leader {margin-top: 30px; margin-bottom: -90px; padding: 0px; text-align:center; margin-left: 100px;}
 #block-block-19 .content {
   padding: 0px 0 0 0;
-  color: #999999;	
+  color: #999999;
 }
 #block-block-19 .block-inner {
   padding: 0px 0 0 0;
@@ -438,7 +432,7 @@ blockquote  {background-image: none; margin: 0px; padding: 0px;}
 
 #block-simpleads-ad-groups-257 .content {
   padding: 0px;
-  color: #000;	
+  color: #000;
 }
 #block-simpleads-ad-groups-257 .block-inner {
   padding: 0px;

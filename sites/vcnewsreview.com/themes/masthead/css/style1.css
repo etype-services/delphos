@@ -1059,3 +1059,7 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 .google {
     background: url(../images/google.png) no-repeat;
 }
+
+.jcarousel-skin-default .jcarousel-item {
+    height: 75px;
+}
