@@ -113,3 +113,8 @@ $sites['bristownews.com'] = 'bristownews.com';
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
 $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 $sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
+
+/* hintonrecord.etypegoogle6.com */
+$sites['hintonrecord.etypegoogle6.com'] = 'hintonrecord.com';
+$sites['www.hintonrecord.com'] = 'hintonrecord.com';
+$sites['hintonrecord.com'] = 'hintonrecord.com';
