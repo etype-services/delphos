@@ -118,3 +118,8 @@ $sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 $sites['hintonrecord.etypegoogle6.com'] = 'hintonrecord.com';
 $sites['www.hintonrecord.com'] = 'hintonrecord.com';
 $sites['hintonrecord.com'] = 'hintonrecord.com';
+
+/* lambcountyleadernews.etypegoogle6.com */
+$sites['lambcountyleadernews.etypegoogle6.com'] = 'lambcountyleadernews.com';
+$sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.com';
+$sites['lambcountyleadernews.com'] = 'lambcountyleadernews.com';
