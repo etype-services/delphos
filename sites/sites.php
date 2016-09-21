@@ -123,3 +123,5 @@ $sites['hintonrecord.com'] = 'hintonrecord.com';
 $sites['lambcountyleadernews.etypegoogle6.com'] = 'lambcountyleadernews.com';
 $sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.com';
 $sites['lambcountyleadernews.com'] = 'lambcountyleadernews.com';
+$sites['www.littlefieldleadernews.com'] = 'lambcountyleadernews.com';
+$sites['littlefieldleadernews.com'] = 'lambcountyleadernews.com';
