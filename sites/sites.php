@@ -130,3 +130,8 @@ $sites['littlefieldleadernews.com'] = 'lambcountyleadernews.com';
 $sites['quinlan-tawakoninews.etypegoogle6.com'] = 'quinlan-tawakoninews.com';
 $sites['www.quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
 $sites['quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
+
+/* winnparishenterprise.etypegoogle6.com */
+$sites['winnparishenterprise.etypegoogle6.com'] =  'winnparishenterprise.etypegoogle6.com';
+$sites['winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
+$sites['www.winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
