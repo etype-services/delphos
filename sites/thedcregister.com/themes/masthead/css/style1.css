@@ -214,7 +214,7 @@ h3.site-slogan {
 --------------------------------------------------------------------------*/
 
 .sidebar .content {
-  padding: 20px 0 0 0;
+  padding: 0;
   color: #999999;
 }
 
@@ -234,6 +234,11 @@ h3.site-slogan {
     border: none;
     border-bottom: none;
     box-shadow: none;
+}
+
+/* last ad block above facebook */
+#block-block-28 {
+    margin-bottom: 20px;
 }
 
 /* POSTSCRIPT
