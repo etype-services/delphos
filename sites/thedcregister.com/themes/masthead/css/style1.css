@@ -228,7 +228,7 @@ h3.site-slogan {
 }
 
 /* DFP ads */
-#main-content .block-block-27 .block-inner, #main-content .block-block-28 .block-inner {
+#main-content #block-block-27 .block-inner, #main-content #block-block-28 .block-inner {
     padding: 0;
     margin-bottom: 0;
     border: none;
