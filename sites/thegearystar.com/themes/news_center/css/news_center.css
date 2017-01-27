@@ -349,4 +349,6 @@ h2.node-title{}
 #block-dfp-etype-sb-geary iframe {width: 300px; height:250px;}
 #block-dfp-etype-sb-geary {margin-left:-5px; padding: 5px 0;}
 
-
+/* crowdy sidebar ad */
+#block-block-18 img {margin-left:-11px;}
+#block-block-18 iframe {margin-left:-11px;}
