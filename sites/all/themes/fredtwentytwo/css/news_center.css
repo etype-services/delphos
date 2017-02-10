@@ -117,6 +117,41 @@ img {
     color: #FFFFFF;
 }
 
+/* secondary menu */
+#block-menu-menu-secondary-menu {
+    margin-top: 7px;
+    float: right;
+    min-height: 24px;
+}
+
+#block-menu-menu-secondary-menu ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+#block-menu-menu-secondary-menu li {
+    padding: 0 0.3em 0;
+}
+
+#block-menu-menu-secondary-menu li.last {
+    padding: 0;
+}
+
+/* override system menus */
+#block-menu-menu-secondary-menu li.leaf {
+    list-style: none;
+}
+
+#block-menu-menu-secondary-menu .menu li a {
+    font-size: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
 #block-user-login label {
     display: none;
 }
@@ -724,20 +759,6 @@ h2.node-title {
     min-height: 400px;
 }
 
-#block-menu-menu-secondary-menu li {
-    display: inline;
-    height: 20px;
-    padding: 0px;
-    margin-bottom: 10px;
-}
-
-/*#block-menu-menu-secondary-menu {
-    float: right;
-    display: block;
-    clear: both;
-    text-align: right
-}*/
-
 .calendar-calendar {
     margin-top: -20px;
 }
@@ -793,7 +814,7 @@ h2.node-title {
 }
 
 /* former simplead styling */
-/* 
+/*
 #block-simpleads-ad-groups-12, #block-simpleads-ad-groups-15, #block-simpleads-ad-groups-49, #block-simpleads-ad-groups-52, #block-simpleads-ad-groups-53, #block-simpleads-ad-groups-54, #block-simpleads-ad-groups-59  {background:transparent;margin-left:-10px;}
 #block-simpleads-ad-groups-56 img{max-width:99%;height:auto;float:left;margin-right:7px;}
 
@@ -830,8 +851,3 @@ h2.node-title {
     padding: 0px;
     margin-bottom: 5px;
 }
-
-.region-header .block-simpleads {
-    float: right;
-}
-	

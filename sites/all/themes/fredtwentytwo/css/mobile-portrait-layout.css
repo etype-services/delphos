@@ -14,31 +14,9 @@ h2, h3, h4, h5, h6 {
 
 #header .region-header {
     background: none repeat scroll 0 0 #fff;
-    display: block;
-    min-height: 22px;
-    padding-top: 6px;
-}
-
-/* top menu */
-.content .menu li a {
-    padding: 8px 0 5px;
-    font-size: 10px;
-    font-weight: 600;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-
-#block-menu-menu-secondary-menu {
-    float: none;
-    display: block;
-    text-align: inherit;
-}
-
-#block-menu-menu-secondary-menu ul {
-    padding: 0;
-    margin: 0;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .messages.error {
@@ -50,12 +28,14 @@ h2, h3, h4, h5, h6 {
 }
 
 #logo {
-    margin-top: 10px;
     width: 100%;
+    display: flex;
+    justify-content: space-around;
 }
 
 #logo img {
     width: 100%;
+    max-width: 700px;
 }
 
 #page-wrapper {
@@ -104,10 +84,12 @@ h2, h3, h4, h5, h6 {
 }
 
 #block-multiblock-1 {
-    margin-bottom: 19px;
+    /*margin-bottom: 19px;
     margin-left: 0;
     padding: 0;
-    width: 296px;
+    width: 296px;*/
+    display: none;
+    visibility: hidden;
 }
 
 #block-multiblock-1 .form-text {
@@ -139,50 +121,34 @@ h2, h3, h4, h5, h6 {
 }
 
 #block-superfish-1 {
-    margin-bottom: 0;
-    width: 320px;
-    height: 30px
+
 }
 
 #block-superfish-1 ul {
-    margin-bottom: 0;
-    margin-right: 0;
-    margin-top: 0;
-    padding-left: 0;
     background-color: #333333
 }
 
 #block-superfish-1 ul li {
     background: none repeat scroll 0 0 #222222;
-    border-top: 1px dashed #CCCCCC;
     clear: both;
     display: inline-block;
     float: left;
-    margin-left: 0 !important;
-    margin-top: 0;
-    padding: 0;
     text-transform: uppercase;
-    width: 310px;
+    width: 320px;
+    border-top: 1px solid #3a3838;
 }
 
 #block-superfish-1 ul li a {
-    background: #000 url("../images/mobile_menu.png") no-repeat scroll 7px 8px transparent;
+    background: #000 url("../images/mobile_menu.png") no-repeat 7px 6px;
     color: #FFFFFF;
     display: block;
     font-weight: bold;
-    height: 30px;
-    margin-top: 0;
-    padding: 7px 15px 0 26px;
     text-decoration: none;
-    -moz-transition: background-color 0.5s ease-out;
-    -o-transition: background-color 0.5s ease-out;
-    -webkit-transition: background-color 0.5s ease-out;
-    transition: background-color 0.5s ease-out;
+    padding-left: 2em;
 }
 
 #block-superfish-1 ul li a.active, #block-superfish-1 ul li a.active-trail, #block-superfish-1 ul li a:hover {
-    color: #f2f2f2;
-    background: #f2f2f2 url("../images/mobile_menu.png") no-repeat scroll 7px 8px transparent;
+    color: #cfdeff;
 }
 
 /* SlideShow Block Styles */
