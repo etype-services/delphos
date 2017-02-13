@@ -111,7 +111,8 @@ body.front h1 {
 }
 
 #block-superfish-1, #superfish-1, .superfish-1 {
-    background: none repeat scroll 0 0 transparent
+    background: none repeat scroll 0 0 transparent;
+    width: 1040px;
 }
 
 #block-superfish-1 ul {
@@ -124,7 +125,6 @@ body.front h1 {
 
 #block-superfish-1 {
     margin-bottom: 0;
-    width: 1040px;
     display: block;
     position: inherit;
     z-index: 99;
