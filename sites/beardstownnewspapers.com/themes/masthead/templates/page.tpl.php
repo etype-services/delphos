@@ -131,7 +131,7 @@
   <div class="footer-wrapper clearfix"><div class="footer-wrapper-inner">
     <footer id="footer" class="<?php echo $grid_full_width ?>">
       <?php print render($page['footer']) ?>
-      <span style="font-size:0.8em;"><a href="http://www.etypeservices.com"><img align="middle" alt="e-Typeservices: Providing technology solutions for community newspapers" height="66" src="http://bristownews.com/sites/bristownews.com/files/eTYPEServices_footer_logo.jpg" title="An e-Typeservices Web Site" width="100" /></a></span>
+      <span style="font-size:0.8em;"><a href="https://www.etypeservices.com"><img align="middle" alt="e-Typeservices: Providing technology solutions for community newspapers" height="66" src="/sites/beardstownnewspapers.com/files/eTYPEServices_footer_logo.jpg" title="An e-Typeservices Web Site" width="100" /></a></span>
     </footer><!-- /footer -->
   </div></div>
  
