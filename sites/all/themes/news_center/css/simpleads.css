@@ -73,3 +73,15 @@
     }
 
 }
+
+@media only screen and (max-width: 600px) {
+
+    /* dfp ads to hide on mobile */
+    .block-dfp-etype-lb-bristow,
+    block-dfp-etypeleaderboard {
+        display: none;
+        visibility: hidden;
+    }
+
+}
+
