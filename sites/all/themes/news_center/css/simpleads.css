@@ -78,7 +78,8 @@
 
     /* dfp ads to hide on mobile */
     #block-dfp-etype-lb-bristow,
-    #block-dfp-etypeleaderboard {
+    #block-dfp-etypeleaderboard,
+    block-dfp-tpa-westleaderboard {
         display: none;
         visibility: hidden;
     }

@@ -851,3 +851,15 @@ h2.node-title {
     padding: 0px;
     margin-bottom: 5px;
 }
+
+@media only screen and (max-width: 600px) {
+
+    /* dfp ads to hide on mobile */
+    #block-dfp-etype-lb-bristow,
+    #block-dfp-etypeleaderboard,
+    block-dfp-tpa-westleaderboard {
+        display: none;
+        visibility: hidden;
+    }
+
+}
