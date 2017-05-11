@@ -862,3 +862,17 @@ h2.node-title {
 /* crowdy sidebar ad */
 #block-block-16 img {margin-left:11px;}
 #block-block-16 iframe {margin-left:11px;}
+
+
+@media only screen and (max-width: 600px) {
+
+    /* dfp ads to hide on mobile */
+    #block-dfp-etype-lb-bristow,
+    #block-dfp-etype-lb-hinton,
+    #block-dfp-etypeleaderboard,
+    #block-dfp-tpa-westleaderboard {
+        display: none;
+        visibility: hidden;
+    }
+
+}
