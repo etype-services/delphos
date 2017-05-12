@@ -110,7 +110,6 @@ $sites['www.bristownews.com'] = 'bristownews.com';
 $sites['bristownews.com'] = 'bristownews.com';
 $sites['dfpresponsive.etypegoogle6.com'] = 'bristownews.com';
 
-
 /* mansfieldenterprise.etypegoogle6.com */
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
 $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
