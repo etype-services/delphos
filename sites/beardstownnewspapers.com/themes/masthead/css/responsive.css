@@ -521,13 +521,13 @@ blockquote {
 }
 
 #block-block-1 .content {
-    padding: 0px;
+    padding: 0;
     color: #000;
 }
 
 #block-block-1 .block-inner {
-    padding: 0px;
-    margin: 0px 0px 0px 0px;
+    padding: 0;
+    margin: 0;
 }
 
 #block-block-1 h3 {
@@ -536,7 +536,7 @@ blockquote {
     background-repeat: repeat-x;
     background-attachment: scroll;
     background-position: right center;
-    background-clip: none;
+    background-clip: unset;
     background-origin: padding-box;
     background-size: auto auto;
 }
