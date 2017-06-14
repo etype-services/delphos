@@ -100,10 +100,7 @@ h3.site-slogan {
 .view-slideshow {
 }
 
-.view-slideshow .views_slideshow_main {
-    position: relative;
-    height: 400px;
-}
+.view-slideshow .views_slideshow_main {    position: relative;    height: 396px;}
 
 .view-slideshow .views_slideshow_main .views-field-field-image {
     position: absolute;
@@ -556,15 +553,15 @@ h3.site-slogan {
 
 .node .field-name-field-image img {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 
 .node .field-name-field-video iframe {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 

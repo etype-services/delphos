@@ -1,4 +1,4 @@
-/* HTML 
+/* HTML
 --------------------------------------------------------------------------*/
 
 body {
@@ -68,7 +68,7 @@ td {
     border: 1px solid #dddddd;
 }
 
-/* HEADER 
+/* HEADER
 --------------------------------------------------------------------------*/
 
 .header-wrapper-inner {
@@ -80,10 +80,7 @@ header {
 }
 
 .site-logo img {
-    width: 100%;
-}
-
-hgroup {
+    max-width: 100%;
 }
 
 h1.site-name, h2.site-name {
@@ -97,15 +94,12 @@ h3.site-slogan {
     text-shadow: 1px 1px #ffffff;
 }
 
-/* SLIDESHOW 
+/* SLIDESHOW
 --------------------------------------------------------------------------*/
-
-.view-slideshow {
-}
 
 .view-slideshow .views_slideshow_main {
     position: relative;
-    height: 400px;
+    height: 396px;
 }
 
 .view-slideshow .views_slideshow_main .views-field-field-image {
@@ -179,7 +173,7 @@ h3.site-slogan {
     margin-right: 0;
 }
 
-/* PREFACE 
+/* PREFACE
 --------------------------------------------------------------------------*/
 .preface-wrapper .block .content {
     height: 300px;
@@ -199,7 +193,7 @@ h3.site-slogan {
     background: #f9f9f9;
 }
 
-/* MAIN CONTENT 
+/* MAIN CONTENT
 --------------------------------------------------------------------------*/
 
 .main-content-wrapper {
@@ -215,7 +209,7 @@ h3.site-slogan {
     box-shadow: 0px 1px 5px #bbbbbb;
 }
 
-/* SIDEBARS 
+/* SIDEBARS
 --------------------------------------------------------------------------*/
 
 .sidebar .content {
@@ -232,7 +226,7 @@ h3.site-slogan {
     background: #f9f9f9;
 }
 
-/* POSTSCRIPT 
+/* POSTSCRIPT
 --------------------------------------------------------------------------*/
 
 #postscript {
@@ -304,7 +298,7 @@ h3.site-slogan {
     color: #ffffff;
 }
 
-/* LISTS 
+/* LISTS
 --------------------------------------------------------------------------*/
 
 .item-list ul {
@@ -452,7 +446,7 @@ h3.site-slogan {
     display: none;
 }
 
-/* SIDE MENU 
+/* SIDE MENU
 --------------------------------------------------------------------------*/
 
 /* CONTENT TOP & CONTENT BOTTOM
@@ -463,15 +457,15 @@ h3.site-slogan {
 
 .node .field-name-field-image img {
     display: block;
-    margin-
+    margin-top: -20px;
     margin-left: 0px;
     margin-bottom: 10px;
 }
 
 .node .field-name-field-video iframe {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 

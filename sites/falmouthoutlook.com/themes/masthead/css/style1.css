@@ -97,12 +97,9 @@ h3.site-slogan {
 /* SLIDESHOW
 --------------------------------------------------------------------------*/
 
-.view-slideshow {
-}
-
 .view-slideshow .views_slideshow_main {
     position: relative;
-    height: 400px;
+    height: 396px;
 }
 
 .view-slideshow .views_slideshow_main .views-field-field-image {
@@ -616,15 +613,15 @@ h3.site-slogan {
 
 .node .field-name-field-image img {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 
 .node .field-name-field-video iframe {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 

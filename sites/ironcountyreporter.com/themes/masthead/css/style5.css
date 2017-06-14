@@ -577,15 +577,15 @@ h3.site-slogan {
 
 .node .field-name-field-image img {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 
 .node .field-name-field-video iframe {
     display: block;
-    margin-
-    margin-
+    margin-top: -20px;
+    margin-top: -20px;
     margin-bottom: 10px;
 }
 
