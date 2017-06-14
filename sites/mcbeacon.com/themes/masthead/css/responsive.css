@@ -2,7 +2,7 @@
     margin-bottom: 10px;
 }
 
-/** 
+/**
 
 Note: Design for a width of 768px
 
@@ -22,13 +22,12 @@ Note: Design for a width of 768px
 
     .node .content img {
         max-width: 450px;
-        max-height: auto;
     }
 
     /* SLIDESHOW
     --------------------------------------------------------------------------*/
     .view-slideshow .views_slideshow_main {
-        height: 240px;
+        height: 260px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
@@ -60,7 +59,7 @@ Note: Design for a width of 768px
 
 }
 
-/** 
+/**
 Note: Design for a width of 300px
 **/
 
@@ -107,7 +106,6 @@ Note: Design for a width of 300px
 
     .node .content img {
         max-width: 240px;
-        max-height: auto;
     }
 
     /* SLIDESHOW
@@ -118,7 +116,7 @@ Note: Design for a width of 300px
     }
 
     .view-slideshow .views_slideshow_main {
-        height: 145px;
+        height: 168px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
@@ -148,7 +146,7 @@ Note: Design for a width of 300px
 
 }
 
-/** 
+/**
 Note: Design for a width of 420px
 **/
 
@@ -156,7 +154,6 @@ Note: Design for a width of 420px
 
     .node .content img {
         max-width: 380px;
-        max-height: auto;
     }
 
     .node-teaser .field-name-field-image img {
@@ -192,7 +189,7 @@ Note: Design for a width of 420px
     /* SLIDESHOW
     --------------------------------------------------------------------------*/
     .view-slideshow .views_slideshow_main {
-        height: 200px;
+        height: 228px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
