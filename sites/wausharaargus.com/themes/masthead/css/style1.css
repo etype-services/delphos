@@ -1,4 +1,4 @@
-/* HTML 
+/* HTML
 --------------------------------------------------------------------------*/
 
 body {
@@ -68,7 +68,7 @@ td {
     border: 1px solid #dddddd;
 }
 
-/* HEADER 
+/* HEADER
 --------------------------------------------------------------------------*/
 
 .header-wrapper-inner {
@@ -94,13 +94,13 @@ h3.site-slogan {
     text-shadow: 1px 1px #ffffff;
 }
 
-/* SLIDESHOW 
+/* SLIDESHOW
 --------------------------------------------------------------------------*/
 
-.view-slideshow {
+.view-slideshow .views_slideshow_main {
+    position: relative;
+    height: 420px;
 }
-
-.view-slideshow .views_slideshow_main {    position: relative;    height: 420px;}
 
 .view-slideshow .views_slideshow_main .views-field-field-image {
     position: absolute;
@@ -118,8 +118,6 @@ h3.site-slogan {
     position: absolute;
     padding: 20px;
     width: 578px;
-
-
     background: url(../images/style2/trans.png);
     color: #ffffff;
 }
@@ -138,7 +136,6 @@ h3.site-slogan {
     width: 578px;
     padding: 20px;
     top: 290px;
-
     background: url(../images/style2/trans.png);
     color: #fff;
     text-shadow: -1px -1px #000000;
@@ -169,7 +166,7 @@ h3.site-slogan {
     margin-right: 0;
 }
 
-/* PREFACE 
+/* PREFACE
 --------------------------------------------------------------------------*/
 .preface-wrapper .block .content {
     height: 300px;
@@ -189,7 +186,7 @@ h3.site-slogan {
     background: #f9f9f9;
 }
 
-/* MAIN CONTENT 
+/* MAIN CONTENT
 --------------------------------------------------------------------------*/
 
 .main-content-wrapper {
@@ -205,7 +202,7 @@ h3.site-slogan {
     box-shadow: 0 1px 5px #bbbbbb;
 }
 
-/* SIDEBARS 
+/* SIDEBARS
 --------------------------------------------------------------------------*/
 
 .sidebar .content {
@@ -222,7 +219,7 @@ h3.site-slogan {
     background: #f9f9f9;
 }
 
-/* POSTSCRIPT 
+/* POSTSCRIPT
 --------------------------------------------------------------------------*/
 
 #postscript {
@@ -294,7 +291,7 @@ h3.site-slogan {
     color: #ffffff;
 }
 
-/* LISTS 
+/* LISTS
 --------------------------------------------------------------------------*/
 
 .item-list ul {
@@ -550,14 +547,14 @@ h3.site-slogan {
 .node .field-name-field-image img {
     display: block;
     margin-top: -20px;
-    margin-top: -20px;
+    margin-left: -20px;
     margin-bottom: 10px;
 }
 
 .node .field-name-field-video iframe {
     display: block;
     margin-top: -20px;
-    margin-top: -20px;
+    margin-left: -20px;
     margin-bottom: 10px;
 }
 
@@ -641,7 +638,7 @@ h3.site-slogan {
 
 #comments .comment {
     padding: 10px 0;
-    margin-bottom: 0px;
+    margin-bottom: 0;
     border-bottom: 1px solid #dddddd;
 }
 
@@ -682,7 +679,7 @@ h3.site-slogan {
 
 #comments .indented .comment {
     padding: 10px;
-    margin-left: 0px;
+    margin-left: 0;
     margin-bottom: 0;
     background: #f9f9f9;
     border-bottom: 0;

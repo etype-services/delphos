@@ -27,7 +27,7 @@ Note: Design for a width of 768px
     /* SLIDESHOW
     --------------------------------------------------------------------------*/
     .view-slideshow .views_slideshow_main {
-        height: 260px;
+        height: 338px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
@@ -107,7 +107,7 @@ Note: Design for a width of 300px
     }
 
     .view-slideshow .views_slideshow_main {
-        height: 168px;
+        height: 214px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
@@ -157,7 +157,7 @@ Note: Design for a width of 420px
     }
 
     .video .node-teaser .node-content-wrapper {
-        margin-left: 0px;
+        margin-left: 0;
     }
 
     .node-teaser .field-name-field-video iframe {
@@ -180,7 +180,7 @@ Note: Design for a width of 420px
     /* SLIDESHOW
     --------------------------------------------------------------------------*/
     .view-slideshow .views_slideshow_main {
-        height: 228px;
+        height: 292px;
     }
 
     .view-slideshow .views_slideshow_main .views-field-field-image img, .view-slideshow .views_slideshow_main .views-field-field-video img {
