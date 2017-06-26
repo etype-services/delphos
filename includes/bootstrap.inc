@@ -8,7 +8,11 @@
 /**
  * The current system version.
  */
+<<<<<<< HEAD
 define('VERSION', '7.55');
+=======
+define('VERSION', '7.56');
+>>>>>>> master
 
 /**
  * Core API compatibility.

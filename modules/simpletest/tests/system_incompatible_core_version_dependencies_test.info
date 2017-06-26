@@ -6,8 +6,15 @@ core = 7.x
 hidden = TRUE
 dependencies[] = system_incompatible_core_version_test
 
+<<<<<<< HEAD
 ; Information added by Drupal.org packaging script on 2017-06-07
 version = "7.55"
 project = "drupal"
 datestamp = "1496873980"
+=======
+; Information added by Drupal.org packaging script on 2017-06-21
+version = "7.56"
+project = "drupal"
+datestamp = "1498069849"
+>>>>>>> master
 
