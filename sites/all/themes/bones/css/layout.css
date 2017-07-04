@@ -696,9 +696,3 @@ div.video_128 {
     color: #666666;
     background: url(../images/icons_128/strategy_128.png) 0% 0% no-repeat;
 }
-
-/* hide theme default mobile drop-down nav */
-#mm0 {
-    display: none;
-    visibility: hidden;
-}
