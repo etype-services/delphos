@@ -387,7 +387,7 @@ pre {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.0em;
     border: 1px solid #dddddd;
-    background: url(../images/pre.png);
+    /*background: url(../images/pre.png);*/
 }
 
 /* Icons 64 */
@@ -694,5 +694,5 @@ div.video_128 {
     margin-bottom: 20px;
     padding-left: 148px;
     color: #666666;
-    background: url(../images/icons_128/strategy_128.png) 0% 0% no-repeat;
+    /*background: url(../images/icons_128/strategy_128.png) 0% 0% no-repeat;*/
 }
