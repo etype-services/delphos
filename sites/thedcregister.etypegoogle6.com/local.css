@@ -12,7 +12,7 @@ body, #page-top .page-inner {
     margin-top: 1em;
 }
 
-@media only screen and (min-width: 959px) {
+@media only screen and (min-width: 980px) {
     /* "cut off" main menu */
     .main-menu-wrapper {
         width: 980px;
