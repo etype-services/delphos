@@ -1,6 +1,6 @@
 /* local.css */
 
-body {
+body, .page-top .page-inner {
     background-color: #f3f1f1;
 }
 
