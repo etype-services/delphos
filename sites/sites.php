@@ -73,6 +73,7 @@ $sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
 $sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
 $sites['www.thedcregister.com'] = 'thedcregister.com';
 $sites['thedcregister.com'] = 'thedcregister.com';
+$sites['thedcregistercni.etypegoogle6.com'] = 'thedcregister.etypegoogle6.com';
 
 /* falmouthoutlook.etypegoogle6.com */
 $sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
