@@ -137,3 +137,8 @@ $sites['quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
 $sites['winnparishenterprise.etypegoogle6.com'] =  'winnparishenterprise.etypegoogle6.com';
 $sites['winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
 $sites['www.winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
+
+/* cibolacitizen.etypegoogle6.com */
+$sites['cibolacitizen.etypegoogle6.com'] =  'cibolacitizen.etypegoogle6.com';
+$sites['cibolacitizen.com'] =  'cibolacitizen.etypegoogle6.com';
+$sites['www.cibolacitizen.com'] =  'cibolacitizen.etypegoogle6.com';
