@@ -31,7 +31,7 @@ function etype_xml_importer_entity_create($item = array(), $values = array(), $e
           break;
 
         case 'images':
-          /*$files = array();
+          $files = array();
           foreach ($v as $arr) {
             $file = file_save_data(file_get_contents($arr['path']), 'public://' . $arr['name']);
             $file->display = '1';
@@ -44,7 +44,7 @@ function etype_xml_importer_entity_create($item = array(), $values = array(), $e
             $file = (array) $file;
             $files[] = $file;
           }
-          $wrapper->field_image->set($files);*/
+          $wrapper->field_image->set($files);
           break;
 
         default:
