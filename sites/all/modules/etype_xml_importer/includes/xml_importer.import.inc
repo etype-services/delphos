@@ -218,7 +218,7 @@ function etype_xml_importer_olive_import() {
                         $array['images'][] = array(
                           'name' => $image['image'],
                           'path' => $ipath,
-                          'caption' => $image['caption'],
+                          /*'caption' => $image['caption'],*/
                         );
                       }
                     }
