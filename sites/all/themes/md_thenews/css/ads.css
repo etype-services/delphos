@@ -1,0 +1,8 @@
+/* extra simple ad stuff */
+.region-leaderboard .block-simpleads .blcontent {
+  background-color: transparent;
+}
+.adslist {
+  display: flex;
+  justify-content: space-around;
+}
