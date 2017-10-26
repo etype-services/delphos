@@ -72,5 +72,7 @@
       <?php if (!empty($page['superfish'])): ?><div class="subnav"></div><?php endif; ?>
     </div><!-- /#nav -->
   <?php endif; ?>
-   <?php if ($page['leaderboard']): print render($page['leaderboard']); endif; ?>
+  <?php if ($page['leaderboard']): ?>
+      <div class="wrap"><?php print render($page['leaderboard']); ?></div>
+  <?php endif; ?>
 </div><!-- /#header -->
