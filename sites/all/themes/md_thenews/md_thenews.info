@@ -8,8 +8,8 @@ stylesheets[all][] = css/jquery.cbFlyout.css
 stylesheets[all][] = css/owl.carousel.css
 stylesheets[all][] = css/style.css
 ;stylesheets[all][] = css/colors.css
+stylesheets[all][] = css/ads.css
 stylesheets[print][] = css/print.css
-stylesheets[print][] = css/ads.css
 
 regions[pushmenu] = Multi-level push
 regions[social_icons] = Social Icons
