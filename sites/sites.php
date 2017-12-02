@@ -1,6 +1,9 @@
 <?php
 
+<<<<<<< HEAD
 #$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
+=======
+>>>>>>> f0e61857a4ed8c912eb99e2a3ed775cf9264dead
 $sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
 
 $sites['thefortpolkguardian.etypegoogle6.com'] = 'thefortpolkguardian.com';
@@ -74,6 +77,8 @@ $sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
 $sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
 $sites['www.thedcregister.com'] = 'thedcregister.com';
 $sites['thedcregister.com'] = 'thedcregister.com';
+$sites['archive.thedcregister.com'] = 'thedcregister.com';
+$sites['thedcregistercni.etypegoogle6.com'] = 'thedcregister.etypegoogle6.com';
 
 /* falmouthoutlook.etypegoogle6.com */
 $sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
@@ -136,3 +141,8 @@ $sites['quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
 $sites['winnparishenterprise.etypegoogle6.com'] =  'winnparishenterprise.etypegoogle6.com';
 $sites['winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
 $sites['www.winnparishenterprise.com'] =  'winnparishenterprise.etypegoogle6.com';
+
+/* cibolacitizen.etypegoogle6.com */
+$sites['cibolacitizen.etypegoogle6.com'] =  'cibolacitizen.etypegoogle6.com';
+$sites['cibolacitizen.com'] =  'cibolacitizen.etypegoogle6.com';
+$sites['www.cibolacitizen.com'] =  'cibolacitizen.etypegoogle6.com';

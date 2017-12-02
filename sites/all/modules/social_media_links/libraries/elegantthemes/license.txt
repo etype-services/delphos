@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Copyright Elegant Themes, Inc. 2012
+
+Dual licensed under MIT and GPL 2.0:
+
+http://www.gnu.org/licenses/gpl-2.0.html
+http://www.opensource.org/licenses/mit-license.html
+=======
+Copyright Elegant Themes, Inc. 2012
+
+Dual licensed under MIT and GPL 2.0:
+
+http://www.gnu.org/licenses/gpl-2.0.html
+http://www.opensource.org/licenses/mit-license.html
+>>>>>>> 49bbd43bf082f427e5fa176de75bc6761f8a011e
