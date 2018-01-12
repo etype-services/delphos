@@ -807,7 +807,8 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
   margin: 0;
 }
 /* main menu fixes */
-#main-menu ul.menu li:hover, #main-menu ul.menu li a:hover, #main-menu ul.menu li li a:hover {
+#main-menu ul.menu li:hover, #main-menu ul.menu li a:hover, #main-menu ul.menu li li a:hover,
+.sf-menu.sf-style-space li:hover, .sf-menu.sf-style-space li.sfHover, .sf-menu.sf-style-space li.active a, .sf-menu.sf-style-space a:focus, .sf-menu.sf-style-space a:hover, .sf-menu.sf-style-space a:active {
   background: #003778;
 }
 #main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
