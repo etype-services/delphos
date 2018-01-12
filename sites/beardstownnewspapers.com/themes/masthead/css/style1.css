@@ -807,7 +807,7 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
   margin: 0;
 }
 /* main menu fixes */
-#main-menu ul.menu li:hover {
+#main-menu ul.menu li:hover, #main-menu ul.menu li a:hover, #main-menu ul.menu li li a:hover {
   background: #003778;
 }
 #main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
