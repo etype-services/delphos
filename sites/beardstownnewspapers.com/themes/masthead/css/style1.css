@@ -965,3 +965,7 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 .view-slideshow .views-slideshow-controls-bottom .views-field-field-image img {
     margin: 0;
 }
+/* menu drop-down fix */
+.sf-menu.sf-style-space li ul li a {
+  padding: 0.75em 1em;
+}
