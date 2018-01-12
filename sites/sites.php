@@ -1,9 +1,6 @@
 <?php
 
-<<<<<<< HEAD
 #$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
-=======
->>>>>>> f0e61857a4ed8c912eb99e2a3ed775cf9264dead
 $sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
 
 $sites['thefortpolkguardian.etypegoogle6.com'] = 'thefortpolkguardian.com';
