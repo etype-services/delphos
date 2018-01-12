@@ -130,8 +130,8 @@
 <!-- All Hail the Footer -->
   <div class="footer-wrapper clearfix"><div class="footer-wrapper-inner">
     <footer id="footer" class="<?php echo $grid_full_width ?>">
-      <?php print render($page['footer']) ?>
-     <!--The following line cannot be changed or removed without violating the terms and service of Surf New Media. Site will be shut down within 24 hours of removal -->   <span style="font-size:0.8em;"><a href="http://www.surfnewmedia.com">Surf New Media</a></span>
+      <?php print render($page['footer']) ?><span style="font-size:0.8em;"><a
+                    href="https://www.etypeservices.com.com">eType Services, Inc.</a></span>
     </footer><!-- /footer -->
   </div></div>
  
