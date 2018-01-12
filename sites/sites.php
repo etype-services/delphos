@@ -1,5 +1,6 @@
 <?php
 
+#$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
 $sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
 
 $sites['thefortpolkguardian.etypegoogle6.com'] = 'thefortpolkguardian.com';
