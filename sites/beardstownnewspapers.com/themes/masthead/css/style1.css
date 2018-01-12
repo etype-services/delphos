@@ -806,7 +806,10 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
 .view-slideshow .views-slideshow-controls-bottom .views-field-field-image img {
   margin: 0;
 }
-/* menu drop-down fix */
-.sf-menu.sf-style-space li ul li a {
+/* main menu fixes */
+#main-menu ul.menu li:hover {
+  background: #003778;
+}
+#main-menu ul.menu li li a, #main-menu ul.menu li li a.active {
   padding: 0.75em 1em;
 }
