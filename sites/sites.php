@@ -1,5 +1,13 @@
 <?php
 
+/* archives */
+$sites['beardstownnewspapersarchives.etypegoogle6.com'] = 'beardstownnewspapersarchives';
+$sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
+$sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
+$sites['theohiocountynewsarchives.etypegoogle6.com'] = 'theohiocountynewsarchives';
+$sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
+
+/* test */
 #$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
 $sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
 
