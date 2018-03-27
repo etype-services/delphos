@@ -84,6 +84,7 @@ $sites['www.thedcregister.com'] = 'thedcregister.com';
 $sites['thedcregister.com'] = 'thedcregister.com';
 $sites['archive.thedcregister.com'] = 'thedcregister.com';
 $sites['thedcregistercni.etypegoogle6.com'] = 'thedcregister.etypegoogle6.com';
+$sites['dcregistermar.etypegoogle6.com.conf'] = 'dcregistermar.etypegoogle6.com.conf';
 
 /* falmouthoutlook.etypegoogle6.com */
 $sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
