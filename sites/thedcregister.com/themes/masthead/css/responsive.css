@@ -135,6 +135,13 @@ Note: Design for a width of 300px
         height: 180px;
     }
 
+    /* DFP Ads */
+    #block-block-25, #block-block-24 {
+        display: none;
+        visibility: hidden;
+    }
+}
+
 }
 
 /**
