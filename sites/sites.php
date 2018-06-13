@@ -72,12 +72,11 @@ $sites['sabineindex.net'] = 'thesabineindex.com';
 $sites['www.sabineindex.net'] = 'thesabineindex.com';
 
 /* thewatongarepublican.etypegoogle6.com */
-$sites['thewatongarepublican.etypegoogle6.com'] = 'thewatongarepublican.com';
-$sites['www.thewatongarepublican.com'] = 'thewatongarepublican.com';
-$sites['thewatongarepublican.com'] = 'thewatongarepublican.com';
-$sites['watongarepublican.com'] = 'thewatongarepublican.com';
-$sites['www.watongarepublican.com'] = 'thewatongarepublican.com';
-$sites['watongacni.etypegoogle6.com'] = 'thewatongarepublican.etypegoogle6.com';
+$sites['thewatongarepublican.etypegoogle6.com'] = 'thewatongarepublican.etypegoogle6.com';
+$sites['www.thewatongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
+$sites['thewatongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
+$sites['watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
+$sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 
 /* thedcregister.etypegoogle6.com */
 $sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
@@ -128,10 +127,9 @@ $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 $sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 
 /* hintonrecord.etypegoogle6.com */
-$sites['hintonrecord.etypegoogle6.com'] = 'hintonrecord.com';
-$sites['www.hintonrecord.com'] = 'hintonrecord.com';
-$sites['hintonrecord.com'] = 'hintonrecord.com';
-$sites['hintoncni.etypegoogle6.com'] = 'hintonrecord.etypegoogle6.com';
+$sites['hintonrecord.etypegoogle6.com'] = 'hintonrecord.etypegoogle6.com';
+$sites['www.hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
+$sites['hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 
 /* lambcountyleadernews.etypegoogle6.com */
 $sites['lambcountyleadernews.etypegoogle6.com'] = 'lambcountyleadernews.com';
