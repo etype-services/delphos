@@ -146,6 +146,10 @@ Note: Design for a width of 300px
         display: block;
     }
 
+    .header-wrapper-inner {
+        padding: 15px 0 0 0;
+    }
+
 }
 
 /**
