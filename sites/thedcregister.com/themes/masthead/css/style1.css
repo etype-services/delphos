@@ -1040,6 +1040,12 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
     margin-top: 20px;
 }
 
+
+#block-simpleads-ad-groups-271 {
+    visibility: hidden;
+    display: none;
+}
+
 /* image fix */
 .view-frontpage .node-teaser .field-image .field-items .field-item {
     display: none;

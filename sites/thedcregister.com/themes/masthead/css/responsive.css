@@ -140,7 +140,11 @@ Note: Design for a width of 300px
         display: none;
         visibility: hidden;
     }
-}
+
+    #block-simpleads-ad-groups-271 {
+        visibility: visible;
+        display: block;
+    }
 
 }
 
@@ -516,3 +520,4 @@ Note: Design for a width of 420px
         padding: 0px;
         margin: 0px;
     }
+}
