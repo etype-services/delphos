@@ -1046,6 +1046,11 @@ ul.quicktabs-tabs.quicktabs-style-nostyle li.active a {
     display: none;
 }
 
+.simplead-container {
+    display: flex;
+    justify-content: center;
+}
+
 /* image fix */
 .view-frontpage .node-teaser .field-image .field-items .field-item {
     display: none;
