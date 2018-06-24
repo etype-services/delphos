@@ -59,6 +59,7 @@ $sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['thegearystar.etypegoogle6.com'] = 'thegearystar.com';
 $sites['www.thegearystar.com'] = 'thegearystar.com';
 $sites['thegearystar.com'] = 'thegearystar.com';
+$sites['thegearystarcni.etypegoogle6.com'] = 'thegearystar.etypegoogle6.com';
 
 /* thesabineindex.etypegoogle6.com */
 $sites['thesabineindex.etypegoogle6.com'] = 'thesabineindex.com';
