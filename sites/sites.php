@@ -56,11 +56,10 @@ $sites['bulletintimesnews.etypegoogle6.com'] = 'bulletintimesnews.com';
 $sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
 
-$sites['thegearystar.etypegoogle6.com'] = 'archive.thegearystar.etypegoogle6.com';
-$sites['www.thegearystar.com'] = 'archive.thegearystar.etypegoogle6.com';
-$sites['thegearystar.com'] = 'archive.thegearystar.etypegoogle6.com';
+/* thegearystar.etypegoogle6.com */
+$sites['www.thegearystar.com'] = 'thegearystar.etypegoogle6.com';
+$sites['thegearystar.com'] = 'thegearystar.etypegoogle6.com';
 $sites['archive.thegearystar.com'] = 'archive.thegearystar.etypegoogle6.com';
-$sites['thegearystarcni.etypegoogle6.com'] = 'thegearystar.etypegoogle6.com';
 
 /* thesabineindex.etypegoogle6.com */
 $sites['thesabineindex.etypegoogle6.com'] = 'thesabineindex.com';
@@ -119,11 +118,10 @@ $sites['www.sansabanews.com'] = 'sansabanews.com';
 $sites['sansabanews.com'] = 'sansabanews.com';
 
 /* bristownews.etypegoogle6.com */
-$sites['bristownews.etypegoogle6.com'] = 'archive.bristownews.etypegoogle6.com';
-$sites['www.bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
-$sites['bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
+$sites['www.bristownews.com'] = 'bristownews.etypegoogle6.com';
+$sites['bristownews.com'] = 'bristownews.etypegoogle6.com';
 $sites['archive.bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
-$sites['bristownewscni.etypegoogle6.com'] = 'bristownews.etypegoogle6.com';
+]]
 
 /* mansfieldenterprise.etypegoogle6.com */
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
