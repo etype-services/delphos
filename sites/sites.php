@@ -121,7 +121,6 @@ $sites['sansabanews.com'] = 'sansabanews.com';
 $sites['www.bristownews.com'] = 'bristownews.etypegoogle6.com';
 $sites['bristownews.com'] = 'bristownews.etypegoogle6.com';
 $sites['archive.bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
-]]
 
 /* mansfieldenterprise.etypegoogle6.com */
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
