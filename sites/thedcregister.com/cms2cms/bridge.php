@@ -2536,17 +2536,22 @@ class Bridge_Platform_Drupal extends Bridge_Platform_Abstract
      * @return $this
      * @throws Bridge_Exception
      */
+    public function valid()
+       {
+            return true;
+        }
+
     public function getConfiguration()
     {
         $this->parseMysqlUrl();
 
         $this->type('Drupal')
-            ->version($this->getConfigVar('VERSION'))
-            ->setDatabaseHost($this->getConfigVar('host'))
-            ->database(self::DATABASE_USER, $this->getConfigVar('username'))
-            ->database(self::DATABASE_PASSWORD, $this->getConfigVar('password'))
-            ->database(self::DATABASE_DATABASE, $this->getConfigVar('database'))
-            ->database(self::DATABASE_PREFIX, $this->getConfigVar('prefix'))
+            ->version('7.0.0')
+            ->setDatabaseHost('localhost')
+            ->database(self::DATABASE_USER, 'etype_dcregister')
+            ->database(self::DATABASE_PASSWORD, '@l975cc|fMv.SZ2')
+            ->database(self::DATABASE_DATABASE, 'thedcregisterlsn')
+            ->database(self::DATABASE_PREFIX, '')
             ->database(self::DATABASE_CHARSET, '')
             ->files(self::PLATFORM_IMAGES_PATH, '/sites/' . $this->path . '/files')
             ->files(self::PLATFORM_IMAGES_WRITABLE, is_writable('../sites/' . $this->path . '/files'))
