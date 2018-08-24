@@ -83,11 +83,6 @@ $sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 $sites['www.thedcregister.com'] = 'dcregistermar.etypegoogle6.com';
 $sites['archive.thedcregister.com'] = 'thedcregister.com';
 
-/* falmouthoutlook.etypegoogle6.com */
-$sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
-$sites['www.falmouthoutlook.com'] = 'falmouthoutlook.com';
-$sites['falmouthoutlook.com'] = 'falmouthoutlook.com';
-
 /* ironcountyreporter.etypegoogle6.com */
 $sites['ironcountyreporter.etypegoogle6.com'] = 'ironcountyreporter.com';
 $sites['www.ironcountyreporter.com'] = 'ironcountyreporter.com';
