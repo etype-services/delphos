@@ -1,12 +1,5 @@
 <?php
 
-/* archives */
-$sites['beardstownnewspapersarchives.etypegoogle6.com'] = 'beardstownnewspapersarchives';
-$sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
-$sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
-$sites['theohiocountynewsarchives.etypegoogle6.com'] = 'theohiocountynewsarchives';
-$sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
-
 /* test */
 #$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
 $sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
@@ -80,8 +73,7 @@ $sites['watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 $sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 
 /* thedcregister.etypegoogle6.com */
-$sites['www.thedcregister.com'] = 'dcregistermar.etypegoogle6.com';
-$sites['archive.thedcregister.com'] = 'thedcregister.com';
+$sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
 
 /* ironcountyreporter.etypegoogle6.com */
 $sites['ironcountyreporter.etypegoogle6.com'] = 'ironcountyreporter.com';
