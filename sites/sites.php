@@ -80,12 +80,8 @@ $sites['watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 $sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 
 /* thedcregister.etypegoogle6.com */
-$sites['thedcregister.etypegoogle6.com'] = 'thedcregister.com';
-$sites['www.thedcregister.com'] = 'thedcregister.com';
-$sites['thedcregister.com'] = 'thedcregister.com';
+$sites['www.thedcregister.com'] = 'dcregistermar.etypegoogle6.com';
 $sites['archive.thedcregister.com'] = 'thedcregister.com';
-$sites['thedcregistercni.etypegoogle6.com'] = 'thedcregister.etypegoogle6.com';
-$sites['dcregistermar.etypegoogle6.com'] = 'dcregistermar.etypegoogle6.com';
 
 /* falmouthoutlook.etypegoogle6.com */
 $sites['falmouthoutlook.etypegoogle6.com'] = 'falmouthoutlook.com';
