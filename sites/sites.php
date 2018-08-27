@@ -74,6 +74,7 @@ $sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 
 /* thedcregister.etypegoogle6.com */
 $sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
+$sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
 
 /* ironcountyreporter.etypegoogle6.com */
 $sites['ironcountyreporter.etypegoogle6.com'] = 'ironcountyreporter.com';
