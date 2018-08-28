@@ -44,6 +44,7 @@ $sites['vilascountynewsreview.com'] = 'vcnewsreview.com';
 $sites['beardstownnewspapers.etypegoogle6.com'] = 'beardstownnewspapers.com';
 $sites['www.beardstownnewspapers.com'] = 'beardstownnewspapers.com';
 $sites['beardstownnewspapers.com'] = 'beardstownnewspapers.com';
+$sites['beardstownnewspapersarchives.etypegoogle6.com'] = 'beardstownnewspapersarchives';
 
 $sites['bulletintimesnews.etypegoogle6.com'] = 'bulletintimesnews.com';
 $sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
