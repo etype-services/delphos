@@ -31,6 +31,7 @@ $sites['www.madillrecord.net'] = 'madillrecord.net';
 $sites['mcbeacon.etypegoogle6.com'] = 'mcbeacon.com';
 $sites['www.mcbeacon.com'] = 'mcbeacon.com';
 $sites['mcbeacon.com'] = 'mcbeacon.com';
+$sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
 
 /* vcnewsreview.etypegoogle6.com */
 $sites['vcnewsreview.etypegoogle6.com'] = 'vcnewsreview.com';
@@ -86,11 +87,13 @@ $sites['ironcountyreporter.com'] = 'ironcountyreporter.com';
 $sites['theohiocountynews.etypegoogle6.com'] = 'theohiocountynews.com';
 $sites['www.theohiocountynews.com'] = 'theohiocountynews.com';
 $sites['theohiocountynews.com'] = 'theohiocountynews.com';
+$sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
 
 /* theharrison-press.etypegoogle6.com */
 $sites['theharrison-press.etypegoogle6.com'] = 'theharrison-press.com';
 $sites['www.theharrison-press.com'] = 'theharrison-press.com';
 $sites['theharrison-press.com'] = 'theharrison-press.com';
+$sites['theohiocountynewsarchives.etypegoogle6.com'] = 'theohiocountynewsarchives';
 
 /* waltersherald.etypegoogle6.com */
 $sites['waltersherald.etypegoogle6.com'] = 'waltersherald.com';
