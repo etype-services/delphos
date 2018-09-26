@@ -121,11 +121,8 @@ $sites['www.hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 $sites['hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 
 /* lambcountyleadernews.etypegoogle6.com */
-$sites['lambcountyleadernews.etypegoogle6.com'] = 'lambcountyleadernews.com';
-$sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.com';
-$sites['lambcountyleadernews.com'] = 'lambcountyleadernews.com';
-$sites['www.littlefieldleadernews.com'] = 'lambcountyleadernews.com';
-$sites['littlefieldleadernews.com'] = 'lambcountyleadernews.com';
+$sites['www.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
+$sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
 
 /* quinlan-tawakoninews.etypegoogle6.com */
 $sites['quinlan-tawakoninews.etypegoogle6.com'] = 'quinlan-tawakoninews.com';
