@@ -20,8 +20,7 @@ $sites['cordellbeacon.etypegoogle6.com'] = 'cordellbeacon.com';
 $sites['cordellbeacon.com'] = 'cordellbeacon.com';
 $sites['www.cordellbeacon.com'] = 'cordellbeacon.com';
 
-$sites['www.dublincitizen.com'] = 'archive.dublincitizen.etypegoogle6.com';
-#$sites['www.dublincitizen.com'] = 'dublincitizen.etypegoogle6.com';
+$sites['www.dublincitizen.com'] = 'dublincitizen.etypegoogle6.com';
 $sites['archive.dublincitizen.com'] = 'archive.dublincitizen.etypegoogle6.com';
 
 $sites['madillrecord.etypegoogle6.com'] = 'madillrecord.net';
