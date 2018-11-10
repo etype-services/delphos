@@ -27,9 +27,8 @@ $sites['madillrecord.etypegoogle6.com'] = 'madillrecord.net';
 $sites['madillrecord.net'] = 'madillrecord.net';
 $sites['www.madillrecord.net'] = 'madillrecord.net';
 
-$sites['mcbeacon.etypegoogle6.com'] = 'mcbeacon.com';
-$sites['www.mcbeacon.com'] = 'mcbeacon.com';
-$sites['mcbeacon.com'] = 'mcbeacon.com';
+$sites['www.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
+$sites['archive.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
 $sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
 
 /* vcnewsreview.etypegoogle6.com */
