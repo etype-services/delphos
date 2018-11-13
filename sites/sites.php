@@ -31,11 +31,6 @@ $sites['www.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
 $sites['archive.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
 $sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
 
-/* vcnewsreview.etypegoogle6.com */
-$sites['vcnewsreview.etypegoogle6.com'] = 'vcnewsreview.com';
-$sites['www.vcnewsreview.com'] = 'vcnewsreview.com';
-$sites['vcnewsreview.com'] = 'vcnewsreview.com';
-
 $sites['www.vilascountynewsreview.com'] = 'vcnewsreview.com';
 $sites['vilascountynewsreview.com'] = 'vcnewsreview.com';
 
