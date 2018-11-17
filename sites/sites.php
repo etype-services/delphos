@@ -114,7 +114,7 @@ $sites['www.hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 $sites['hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 
 /* lambcountyleadernews.etypegoogle6.com */
-$sites['www.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
+$sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.etypegoogle6.com';
 $sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
 
 /* quinlan-tawakoninews.etypegoogle6.com */
