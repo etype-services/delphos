@@ -77,15 +77,13 @@ $sites['www.ironcountyreporter.com'] = 'ironcountyreporter.com';
 $sites['ironcountyreporter.com'] = 'ironcountyreporter.com';
 
 /* theohiocountynews.etypegoogle6.com */
-$sites['www.theohiocountynews.com'] = 'archive.theohiocountynews.etypegoogle6.com';
+$sites['www.theohiocountynews.com'] = 'theohiocountynews.etypegoogle6.com';
 $sites['archive.theohiocountynews.com'] = 'archive.theohiocountynews.etypegoogle6.com';
-$sites['theohiocountynews.com'] = 'archive.theohiocountynews.etypegoogle6.com';
 $sites['theohiocountynewsarchives.etypegoogle6.com'] = 'theohiocountynewsarchives';
 
 /* theharrison-press.etypegoogle6.com */
-$sites['www.theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
+$sites['www.theharrison-press.com'] = 'theharrison-press.etypegoogle6.com';
 $sites['archive.theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
-$sites['theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
 $sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
 
 /* waltersherald.etypegoogle6.com */
