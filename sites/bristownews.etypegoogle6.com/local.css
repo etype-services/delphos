@@ -1,0 +1,7 @@
+/* hide e-edition block on mobile devices to comply with Apple policies */
+
+@media only screen and (max-width: 420px) {
+
+#block-block-39 {visibility:hidden; display:none;}
+
+}
