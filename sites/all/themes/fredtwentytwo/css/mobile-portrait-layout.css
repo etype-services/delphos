@@ -679,11 +679,21 @@ body.node-type-article .node .content {
     padding-top: 82px;
 }
 
-#block-widgets-s-addthis-share {
+/* Old css */
+/*#block-widgets-s-addthis-share {
     float: right;
     margin-right: 4px;
     margin-top: 36px;
     position: absolute;
+    left: 0px;
+} */
+
+/* New css for mobile apps */
+#block-widgets-s-addthis-share {
+    clear: both;
+    margin-right: 4px;
+    margin-top: 10px;
+    position: relative;
     left: 0px;
 }
 

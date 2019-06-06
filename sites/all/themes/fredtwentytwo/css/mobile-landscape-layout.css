@@ -668,12 +668,21 @@ body.node-type-article .node .submitted {
     margin-top: 3px;
 }
 
-#block-widgets-s-addthis-share {
+/* Old css */
+/* #block-widgets-s-addthis-share {
     float: right;
     margin-right: 4px;
     margin-top: 36px;
     position: absolute;
     left: 398px;
+} */
+
+/* New css for mobile apps */
+#block-widgets-s-addthis-share {
+    clear: both;
+    margin-right: 4px;
+    margin-top: 10px;
+    position: relative;
 }
 
 #block-widgets-s-addthis-share div.widgets-element-horizontal {
