@@ -24,22 +24,6 @@
         </div><?php print render($page['header']) ?>
       <?php endif; ?>
 
-      <hgroup>
-
-        <?php if ($site_name): ?>
-            <?php if ($is_front) { ?>
-              <h1 class="site-name"><a href="<?php print check_url($front_page); ?>"><?php print $site_name; ?></a></h1>
-            <?php } else { ?>
-              <h2 class="site-name"><a href="<?php print check_url($front_page); ?>"><?php print $site_name; ?></a></h2>
-            <?php } ?>
-        <?php endif; ?>
-
-        <?php if ($site_slogan): ?>
-            <h3 class="site-slogan"><?php print $site_slogan; ?></h3>
-        <?php endif; ?>
-
-      </hgroup>
-
     </header>
 
   </div></div>
