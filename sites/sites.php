@@ -91,11 +91,6 @@ $sites['waltersherald.etypegoogle6.com'] = 'waltersherald.com';
 $sites['www.waltersherald.com'] = 'waltersherald.com';
 $sites['waltersherald.com'] = 'waltersherald.com';
 
-/* sansabanews.etypegoogle6.com */
-$sites['sansabanews.etypegoogle6.com'] = 'sansabanews.com';
-$sites['www.sansabanews.com'] = 'sansabanews.com';
-$sites['sansabanews.com'] = 'sansabanews.com';
-
 /* bristownews.etypegoogle6.com */
 $sites['www.bristownews.com'] = 'bristownews.etypegoogle6.com';
 $sites['bristownews.com'] = 'bristownews.etypegoogle6.com';
