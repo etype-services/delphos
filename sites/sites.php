@@ -1,38 +1,15 @@
 <?php
 
-/* test */
-#$sites['test.etypegoogle6.com'] = 'test.etypegoogle6.com';
-$sites['test.etypegoogle6.com'] = 'testironcountyreporter.com';
-
-$sites['thefortpolkguardian.etypegoogle6.com'] = 'thefortpolkguardian.com';
-$sites['thefortpolkguardian.com'] = 'thefortpolkguardian.com';
-$sites['www.thefortpolkguardian.com'] = 'thefortpolkguardian.com';
-
 $sites['wausharaargus.etypegoogle6.com'] = 'wausharaargus.com';
 $sites['wausharaargus.com'] = 'wausharaargus.com';
 $sites['www.wausharaargus.com'] = 'wausharaargus.com';
 
-$sites['natchitochestimes.etypegoogle6.com'] = 'natchitochestimes.com';
-$sites['natchitochestimes.com'] = 'natchitochestimes.com';
-$sites['www.natchitochestimes.com'] = 'natchitochestimes.com';
-
-$sites['cordellbeacon.etypegoogle6.com'] = 'cordellbeacon.com';
-$sites['cordellbeacon.com'] = 'cordellbeacon.com';
-$sites['www.cordellbeacon.com'] = 'cordellbeacon.com';
-
-$sites['www.dublincitizen.com'] = 'dublincitizen.etypegoogle6.com';
 $sites['archive.dublincitizen.com'] = 'archive.dublincitizen.etypegoogle6.com';
-
-$sites['madillrecord.etypegoogle6.com'] = 'madillrecord.net';
-$sites['madillrecord.net'] = 'madillrecord.net';
-$sites['www.madillrecord.net'] = 'madillrecord.net';
+$sites['www.dublincitizen.com'] = 'dublincitizen.etypegoogle6.com';
 
 $sites['www.mcbeacon.com'] = 'mcbeacon.etypegoogle6.com';
 $sites['archive.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
 $sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
-
-$sites['www.vilascountynewsreview.com'] = 'vcnewsreview.com';
-$sites['vilascountynewsreview.com'] = 'vcnewsreview.com';
 
 /* beardstownnewspapers.etypegoogle6.com */
 $sites['beardstownnewspapers.etypegoogle6.com'] = 'beardstownnewspapers.com';
@@ -68,7 +45,6 @@ $sites['watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 $sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
 
 /* thedcregister.etypegoogle6.com */
-$sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
 $sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
 
 /* ironcountyreporter.etypegoogle6.com */
@@ -110,11 +86,6 @@ $sites['hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 $sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.etypegoogle6.com';
 $sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
 
-/* quinlan-tawakoninews.etypegoogle6.com */
-$sites['quinlan-tawakoninews.etypegoogle6.com'] = 'quinlan-tawakoninews.com';
-$sites['www.quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
-$sites['quinlan-tawakoninews.com'] = 'quinlan-tawakoninews.com';
-
 /* winnparishenterprise.etypegoogle6.com */
 $sites['winnparishenterprise.etypegoogle6.com'] = 'winnparishenterprise.etypegoogle6.com';
 $sites['winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com';
@@ -124,3 +95,5 @@ $sites['www.winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com'
 $sites['cibolacitizen.etypegoogle6.com'] = 'cibolacitizen.etypegoogle6.com';
 $sites['cibolacitizen.com'] = 'cibolacitizen.etypegoogle6.com';
 $sites['www.cibolacitizen.com'] = 'cibolacitizen.etypegoogle6.com';
+
+$sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
