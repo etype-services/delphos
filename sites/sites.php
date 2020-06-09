@@ -37,13 +37,6 @@ $sites['sabinetoday.com'] = 'thesabineindex.com';
 $sites['sabineindex.net'] = 'thesabineindex.com';
 $sites['www.sabineindex.net'] = 'thesabineindex.com';
 
-/* thewatongarepublican.etypegoogle6.com */
-$sites['thewatongarepublican.etypegoogle6.com'] = 'thewatongarepublican.etypegoogle6.com';
-$sites['www.thewatongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
-$sites['thewatongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
-$sites['watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
-$sites['www.watongarepublican.com'] = 'thewatongarepublican.etypegoogle6.com';
-
 /* thedcregister.etypegoogle6.com */
 $sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
 
@@ -62,11 +55,6 @@ $sites['www.theharrison-press.com'] = 'theharrison-press.etypegoogle6.com';
 $sites['archive.theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
 $sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
 
-/* waltersherald.etypegoogle6.com */
-$sites['waltersherald.etypegoogle6.com'] = 'waltersherald.com';
-$sites['www.waltersherald.com'] = 'waltersherald.com';
-$sites['waltersherald.com'] = 'waltersherald.com';
-
 /* bristownews.etypegoogle6.com */
 $sites['www.bristownews.com'] = 'bristownews.etypegoogle6.com';
 $sites['bristownews.com'] = 'bristownews.etypegoogle6.com';
@@ -76,11 +64,6 @@ $sites['archive.bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
 $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 $sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
-
-/* hintonrecord.etypegoogle6.com */
-$sites['hintonrecord.etypegoogle6.com'] = 'hintonrecord.etypegoogle6.com';
-$sites['www.hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
-$sites['hintonrecord.com'] = 'hintonrecord.etypegoogle6.com';
 
 /* lambcountyleadernews.etypegoogle6.com */
 $sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.etypegoogle6.com';
