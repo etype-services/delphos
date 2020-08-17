@@ -40,11 +40,6 @@ $sites['www.sabineindex.net'] = 'thesabineindex.com';
 /* thedcregister.etypegoogle6.com */
 $sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
 
-/* ironcountyreporter.etypegoogle6.com */
-$sites['ironcountyreporter.etypegoogle6.com'] = 'ironcountyreporter.com';
-$sites['www.ironcountyreporter.com'] = 'ironcountyreporter.com';
-$sites['ironcountyreporter.com'] = 'ironcountyreporter.com';
-
 /* theohiocountynews.etypegoogle6.com */
 $sites['www.theohiocountynews.com'] = 'theohiocountynews.etypegoogle6.com';
 $sites['archive.theohiocountynews.com'] = 'archive.theohiocountynews.etypegoogle6.com';
