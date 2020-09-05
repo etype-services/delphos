@@ -61,7 +61,6 @@ $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 $sites['mansfieldenterprise.com'] = 'mansfieldenterprise.com';
 
 /* lambcountyleadernews.etypegoogle6.com */
-$sites['www.lambcountyleadernews.com'] = 'lambcountyleadernews.etypegoogle6.com';
 $sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etypegoogle6.com';
 
 /* winnparishenterprise.etypegoogle6.com */
