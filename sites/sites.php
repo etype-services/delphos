@@ -5,7 +5,6 @@ $sites['wausharaargus.com'] = 'wausharaargus.com';
 $sites['www.wausharaargus.com'] = 'wausharaargus.com';
 
 $sites['archive.dublincitizen.com'] = 'archive.dublincitizen.etypegoogle6.com';
-$sites['www.dublincitizen.com'] = 'dublincitizen.etypegoogle6.com';
 
 $sites['www.mcbeacon.com'] = 'mcbeacon.etypegoogle6.com';
 $sites['archive.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
@@ -67,10 +66,5 @@ $sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etype
 $sites['winnparishenterprise.etypegoogle6.com'] = 'winnparishenterprise.etypegoogle6.com';
 $sites['winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com';
 $sites['www.winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com';
-
-/* cibolacitizen.etypegoogle6.com */
-$sites['cibolacitizen.etypegoogle6.com'] = 'cibolacitizen.etypegoogle6.com';
-$sites['cibolacitizen.com'] = 'cibolacitizen.etypegoogle6.com';
-$sites['www.cibolacitizen.com'] = 'cibolacitizen.etypegoogle6.com';
 
 $sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
