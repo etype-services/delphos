@@ -49,11 +49,6 @@ $sites['www.theharrison-press.com'] = 'theharrison-press.etypegoogle6.com';
 $sites['archive.theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
 $sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
 
-/* bristownews.etypegoogle6.com */
-$sites['www.bristownews.com'] = 'bristownews.etypegoogle6.com';
-$sites['bristownews.com'] = 'bristownews.etypegoogle6.com';
-$sites['archive.bristownews.com'] = 'archive.bristownews.etypegoogle6.com';
-
 /* mansfieldenterprise.etypegoogle6.com */
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
 $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
