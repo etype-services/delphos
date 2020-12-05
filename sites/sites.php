@@ -20,9 +20,6 @@ $sites['bulletintimesnews.etypegoogle6.com'] = 'bulletintimesnews.com';
 $sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
 $sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
 
-/* thegearystar.etypegoogle6.com */
-$sites['www.thegearystar.com'] = 'thegearystar.etypegoogle6.com';
-$sites['thegearystar.com'] = 'thegearystar.etypegoogle6.com';
 $sites['archive.thegearystar.com'] = 'archive.thegearystar.etypegoogle6.com';
 
 /* thesabineindex.etypegoogle6.com */
