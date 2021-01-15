@@ -33,19 +33,6 @@ $sites['sabinetoday.com'] = 'thesabineindex.com';
 $sites['sabineindex.net'] = 'thesabineindex.com';
 $sites['www.sabineindex.net'] = 'thesabineindex.com';
 
-/* thedcregister.etypegoogle6.com */
-$sites['thedcregisterarchives.etypegoogle6.com'] = 'thedcregisterarchives';
-
-/* theohiocountynews.etypegoogle6.com */
-$sites['www.theohiocountynews.com'] = 'theohiocountynews.etypegoogle6.com';
-$sites['archive.theohiocountynews.com'] = 'archive.theohiocountynews.etypegoogle6.com';
-$sites['theohiocountynewsarchives.etypegoogle6.com'] = 'theohiocountynewsarchives';
-
-/* theharrison-press.etypegoogle6.com */
-$sites['www.theharrison-press.com'] = 'theharrison-press.etypegoogle6.com';
-$sites['archive.theharrison-press.com'] = 'archive.theharrison-press.etypegoogle6.com';
-$sites['theharrison-pressarchives.etypegoogle6.com'] = 'theharrison-pressarchives';
-
 /* mansfieldenterprise.etypegoogle6.com */
 $sites['mansfieldenterprise.etypegoogle6.com'] = 'mansfieldenterprise.com';
 $sites['www.mansfieldenterprise.com'] = 'mansfieldenterprise.com';
@@ -58,5 +45,3 @@ $sites['archive.lambcountyleadernews.com'] = 'archive.lambcountyleadernews.etype
 $sites['winnparishenterprise.etypegoogle6.com'] = 'winnparishenterprise.etypegoogle6.com';
 $sites['winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com';
 $sites['www.winnparishenterprise.com'] = 'winnparishenterprise.etypegoogle6.com';
-
-$sites['www.thedcregister.com'] = 'thedcregister.etypegoogle6.com';
