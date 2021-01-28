@@ -1,5 +1,6 @@
 <?php
 
+$sites['etypegoogle6.com'] = 'thedcregister.etypegoogle6.com.delete';
 $sites['wausharaargus.etypegoogle6.com'] = 'wausharaargus.com';
 $sites['wausharaargus.com'] = 'wausharaargus.com';
 $sites['www.wausharaargus.com'] = 'wausharaargus.com';
