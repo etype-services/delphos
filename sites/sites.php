@@ -3,16 +3,6 @@ $sites['www.mcbeacon.com'] = 'mcbeacon.etypegoogle6.com';
 //$sites['archive.mcbeacon.com'] = 'archive.mcbeacon.etypegoogle6.com';
 //$sites['mcbeaconarchives.etypegoogle6.com'] = 'mcbeaconarchives';
 
-/* beardstownnewspapers.etypegoogle6.com */
-$sites['beardstownnewspapers.etypegoogle6.com'] = 'beardstownnewspapers.com';
-$sites['www.beardstownnewspapers.com'] = 'beardstownnewspapers.com';
-$sites['beardstownnewspapers.com'] = 'beardstownnewspapers.com';
-$sites['beardstownnewspapersarchives.etypegoogle6.com'] = 'beardstownnewspapersarchives';
-
-$sites['bulletintimesnews.etypegoogle6.com'] = 'bulletintimesnews.com';
-$sites['www.bulletintimesnews.com'] = 'bulletintimesnews.com';
-$sites['bulletintimesnews.com'] = 'bulletintimesnews.com';
-
 /* thesabineindex.etypegoogle6.com */
 $sites['thesabineindex.etypegoogle6.com'] = 'thesabineindex.com';
 $sites['www.thesabineindex.com'] = 'thesabineindex.com';
